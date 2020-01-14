@@ -1,0 +1,1645 @@
+"Win","Date","Team","Opponent","ScoreOff","ScoreDef","Home"
+1,2019-08-29,"Connecticut","Wagner (NY)",24,21,1
+0,2019-09-07,"Connecticut","Illinois",23,31,1
+0,2019-09-21,"Connecticut","Indiana",3,38,0
+0,2019-09-28,"Connecticut","Central Florida",21,56,0
+0,2019-10-05,"Connecticut","South Florida",22,48,1
+0,2019-10-12,"Connecticut","Tulane (LA)",7,49,0
+0,2019-10-19,"Connecticut","Houston (TX)",17,24,1
+1,2019-10-26,"Connecticut","Massachusetts",56,35,0
+0,2019-11-01,"Connecticut","Navy (MD)",10,56,1
+0,2019-11-09,"Connecticut","Cincinnati (OH)",3,48,0
+0,2019-11-23,"Connecticut","East Carolina (NC)",24,31,1
+0,2019-11-30,"Connecticut","Temple (PA)",17,49,0
+1,2019-08-29,"Central Florida","Florida A&M",62,0,1
+1,2019-09-07,"Central Florida","Florida Atlantic",48,14,0
+1,2019-09-14,"Central Florida","Stanford (CA)",45,27,1
+0,2019-09-21,"Central Florida","Pittsburgh (PA)",34,35,0
+1,2019-09-28,"Central Florida","Connecticut",56,21,1
+0,2019-10-04,"Central Florida","Cincinnati (OH)",24,27,0
+1,2019-10-19,"Central Florida","East Carolina (NC)",41,28,1
+1,2019-10-26,"Central Florida","Temple (PA)",63,21,0
+1,2019-11-02,"Central Florida","Houston (TX)",44,29,1
+0,2019-11-08,"Central Florida","Tulsa (OK)",31,34,0
+1,2019-11-23,"Central Florida","Tulane (LA)",34,31,0
+1,2019-11-29,"Central Florida","South Florida",34,7,1
+1,2019-12-23,"Central Florida","Marshall (WV)",48,25,1
+0,2019-08-31,"East Carolina (NC)","North Carolina St.",6,34,0
+1,2019-09-07,"East Carolina (NC)","Gardner-Webb (NC)",48,9,1
+0,2019-09-14,"East Carolina (NC)","Navy (MD)",10,42,0
+1,2019-09-21,"East Carolina (NC)","William & Mary (VA)",19,7,1
+1,2019-09-28,"East Carolina (NC)","Old Dominion (VA)",24,21,0
+0,2019-10-03,"East Carolina (NC)","Temple (PA)",17,27,1
+0,2019-10-19,"East Carolina (NC)","Central Florida",28,41,0
+0,2019-10-26,"East Carolina (NC)","South Florida",20,45,1
+0,2019-11-02,"East Carolina (NC)","Cincinnati (OH)",43,46,1
+0,2019-11-09,"East Carolina (NC)","Southern Methodist (TX)",51,59,0
+1,2019-11-23,"East Carolina (NC)","Connecticut",31,24,0
+0,2019-11-30,"East Carolina (NC)","Tulsa (OK)",24,49,1
+1,2019-08-29,"Cincinnati (OH)","UCLA",24,14,1
+0,2019-09-07,"Cincinnati (OH)","Ohio St.",0,42,0
+1,2019-09-14,"Cincinnati (OH)","Miami (OH)",35,13,1
+1,2019-09-28,"Cincinnati (OH)","Marshall (WV)",52,14,0
+1,2019-10-04,"Cincinnati (OH)","Central Florida",27,24,1
+1,2019-10-12,"Cincinnati (OH)","Houston (TX)",38,23,0
+1,2019-10-19,"Cincinnati (OH)","Tulsa (OK)",24,13,1
+1,2019-11-02,"Cincinnati (OH)","East Carolina (NC)",46,43,0
+1,2019-11-09,"Cincinnati (OH)","Connecticut",48,3,1
+1,2019-11-16,"Cincinnati (OH)","South Florida",20,17,0
+1,2019-11-23,"Cincinnati (OH)","Temple (PA)",15,13,1
+0,2019-11-29,"Cincinnati (OH)","Memphis (TN)",24,34,0
+0,2019-12-07,"Cincinnati (OH)","Memphis (TN)",24,29,0
+1,2020-01-02,"Cincinnati (OH)","Boston College (MA)",38,6,1
+1,2019-08-31,"Temple (PA)","Bucknell (PA)",56,12,1
+1,2019-09-14,"Temple (PA)","Maryland",20,17,1
+0,2019-09-21,"Temple (PA)","Buffalo (NY)",22,38,0
+1,2019-09-28,"Temple (PA)","Georgia Tech",24,2,1
+1,2019-10-03,"Temple (PA)","East Carolina (NC)",27,17,0
+1,2019-10-12,"Temple (PA)","Memphis (TN)",30,28,1
+0,2019-10-19,"Temple (PA)","Southern Methodist (TX)",21,45,0
+0,2019-10-26,"Temple (PA)","Central Florida",21,63,1
+1,2019-11-07,"Temple (PA)","South Florida",17,7,0
+1,2019-11-16,"Temple (PA)","Tulane (LA)",29,21,1
+0,2019-11-23,"Temple (PA)","Cincinnati (OH)",13,15,0
+1,2019-11-30,"Temple (PA)","Connecticut",49,17,1
+0,2019-12-27,"Temple (PA)","North Carolina",13,55,1
+0,2019-08-30,"South Florida","Wisconsin",0,49,1
+0,2019-09-07,"South Florida","Georgia Tech",10,14,0
+1,2019-09-14,"South Florida","South Carolina St.",55,16,1
+0,2019-09-28,"South Florida","Southern Methodist (TX)",21,48,1
+1,2019-10-05,"South Florida","Connecticut",48,22,0
+1,2019-10-12,"South Florida","Brigham Young (UT)",27,23,1
+0,2019-10-19,"South Florida","Navy (MD)",3,35,0
+1,2019-10-26,"South Florida","East Carolina (NC)",45,20,0
+0,2019-11-07,"South Florida","Temple (PA)",7,17,1
+0,2019-11-16,"South Florida","Cincinnati (OH)",17,20,1
+0,2019-11-23,"South Florida","Memphis (TN)",10,49,1
+0,2019-11-29,"South Florida","Central Florida",7,34,0
+1,2019-08-31,"Southern Methodist (TX)","Arkansas St.",37,30,0
+1,2019-09-07,"Southern Methodist (TX)","North Texas",49,27,1
+1,2019-09-14,"Southern Methodist (TX)","Texas St.",47,17,1
+1,2019-09-21,"Southern Methodist (TX)","Texas Christian",41,38,0
+1,2019-09-28,"Southern Methodist (TX)","South Florida",48,21,0
+1,2019-10-05,"Southern Methodist (TX)","Tulsa (OK)",43,37,1
+1,2019-10-19,"Southern Methodist (TX)","Temple (PA)",45,21,1
+1,2019-10-24,"Southern Methodist (TX)","Houston (TX)",34,31,0
+0,2019-11-02,"Southern Methodist (TX)","Memphis (TN)",48,54,0
+1,2019-11-09,"Southern Methodist (TX)","East Carolina (NC)",59,51,1
+0,2019-11-23,"Southern Methodist (TX)","Navy (MD)",28,35,0
+1,2019-11-30,"Southern Methodist (TX)","Tulane (LA)",37,20,1
+0,2019-12-21,"Southern Methodist (TX)","Florida Atlantic",28,52,0
+0,2019-09-07,"Tulane (LA)","Auburn (AL)",6,24,0
+1,2019-09-14,"Tulane (LA)","Missouri St.",58,6,1
+1,2019-09-19,"Tulane (LA)","Houston (TX)",38,31,1
+1,2019-10-05,"Tulane (LA)","Army (NY)",42,33,0
+1,2019-10-12,"Tulane (LA)","Connecticut",49,7,1
+0,2019-10-19,"Tulane (LA)","Memphis (TN)",17,47,0
+0,2019-10-26,"Tulane (LA)","Navy (MD)",38,41,0
+1,2019-11-02,"Tulane (LA)","Tulsa (OK)",38,26,1
+0,2019-11-16,"Tulane (LA)","Temple (PA)",21,29,0
+0,2019-11-23,"Tulane (LA)","Central Florida",31,34,1
+0,2019-11-30,"Tulane (LA)","Southern Methodist (TX)",20,37,0
+1,2020-01-04,"Tulane (LA)","Southern Mississippi",30,13,1
+1,2019-08-31,"Memphis (TN)","Mississippi",15,10,1
+1,2019-09-07,"Memphis (TN)","Southern (LA)",55,24,1
+1,2019-09-14,"Memphis (TN)","South Alabama",42,6,0
+1,2019-09-26,"Memphis (TN)","Navy (MD)",35,23,1
+1,2019-10-05,"Memphis (TN)","Louisiana-Monroe",52,33,0
+0,2019-10-12,"Memphis (TN)","Temple (PA)",28,30,0
+1,2019-10-19,"Memphis (TN)","Tulane (LA)",47,17,1
+1,2019-10-26,"Memphis (TN)","Tulsa (OK)",42,41,0
+1,2019-11-02,"Memphis (TN)","Southern Methodist (TX)",54,48,1
+1,2019-11-16,"Memphis (TN)","Houston (TX)",45,27,0
+1,2019-11-23,"Memphis (TN)","South Florida",49,10,0
+1,2019-11-29,"Memphis (TN)","Cincinnati (OH)",34,24,1
+1,2019-12-07,"Memphis (TN)","Cincinnati (OH)",29,24,1
+0,2019-12-28,"Memphis (TN)","Penn St.",39,53,1
+0,2019-09-01,"Houston (TX)","Oklahoma",31,49,0
+0,2019-09-13,"Houston (TX)","Washington St.",24,31,1
+0,2019-09-19,"Houston (TX)","Tulane (LA)",31,38,0
+1,2019-09-28,"Houston (TX)","North Texas",46,25,0
+0,2019-10-12,"Houston (TX)","Cincinnati (OH)",23,38,1
+1,2019-10-19,"Houston (TX)","Connecticut",24,17,0
+0,2019-10-24,"Houston (TX)","Southern Methodist (TX)",31,34,1
+0,2019-11-02,"Houston (TX)","Central Florida",29,44,0
+0,2019-11-16,"Houston (TX)","Memphis (TN)",27,45,1
+1,2019-11-23,"Houston (TX)","Tulsa (OK)",24,14,0
+0,2019-11-30,"Houston (TX)","Navy (MD)",41,56,1
+0,2019-09-02,"Louisville (KY)","Notre Dame (IN)",17,35,1
+1,2019-09-07,"Louisville (KY)","Eastern Kentucky",42,0,1
+1,2019-09-14,"Louisville (KY)","Western Kentucky",38,21,1
+0,2019-09-21,"Louisville (KY)","Florida St.",24,35,0
+1,2019-10-05,"Louisville (KY)","Boston College (MA)",41,39,1
+1,2019-10-12,"Louisville (KY)","Wake Forest (NC)",62,59,0
+0,2019-10-19,"Louisville (KY)","Clemson (SC)",10,45,1
+1,2019-10-26,"Louisville (KY)","Virginia",28,21,1
+0,2019-11-09,"Louisville (KY)","Miami (FL)",27,52,0
+1,2019-11-16,"Louisville (KY)","North Carolina St.",34,20,0
+1,2019-11-23,"Louisville (KY)","Syracuse (NY)",56,34,1
+0,2019-11-30,"Louisville (KY)","Kentucky",13,45,0
+1,2019-12-30,"Louisville (KY)","Mississippi St.",38,28,1
+0,2019-08-30,"Tulsa (OK)","Michigan St.",7,28,0
+1,2019-09-07,"Tulsa (OK)","San Jose St. (CA)",34,16,0
+0,2019-09-14,"Tulsa (OK)","Oklahoma St.",21,40,1
+1,2019-09-21,"Tulsa (OK)","Wyoming",24,21,1
+0,2019-10-05,"Tulsa (OK)","Southern Methodist (TX)",37,43,0
+0,2019-10-12,"Tulsa (OK)","Navy (MD)",17,45,1
+0,2019-10-19,"Tulsa (OK)","Cincinnati (OH)",13,24,0
+0,2019-10-26,"Tulsa (OK)","Memphis (TN)",41,42,1
+0,2019-11-02,"Tulsa (OK)","Tulane (LA)",26,38,0
+1,2019-11-08,"Tulsa (OK)","Central Florida",34,31,1
+0,2019-11-23,"Tulsa (OK)","Houston (TX)",14,24,1
+1,2019-11-30,"Tulsa (OK)","East Carolina (NC)",49,24,0
+1,2019-08-31,"Navy (MD)","Holy Cross (MA)",45,7,1
+1,2019-09-14,"Navy (MD)","East Carolina (NC)",42,10,1
+0,2019-09-26,"Navy (MD)","Memphis (TN)",23,35,0
+1,2019-10-05,"Navy (MD)","Air Force (CO)",34,25,1
+1,2019-10-12,"Navy (MD)","Tulsa (OK)",45,17,0
+1,2019-10-19,"Navy (MD)","South Florida",35,3,1
+1,2019-10-26,"Navy (MD)","Tulane (LA)",41,38,1
+1,2019-11-01,"Navy (MD)","Connecticut",56,10,0
+0,2019-11-16,"Navy (MD)","Notre Dame (IN)",20,52,0
+1,2019-11-23,"Navy (MD)","Southern Methodist (TX)",35,28,1
+1,2019-11-30,"Navy (MD)","Houston (TX)",56,41,0
+1,2019-12-14,"Navy (MD)","Army (NY)",31,7,1
+1,2019-12-31,"Navy (MD)","Kansas St.",20,17,1
+1,2019-08-29,"Clemson (SC)","Georgia Tech",52,14,1
+1,2019-09-07,"Clemson (SC)","Texas A&M",24,10,1
+1,2019-09-14,"Clemson (SC)","Syracuse (NY)",41,6,0
+1,2019-09-21,"Clemson (SC)","North Carolina-Charlotte",52,10,1
+1,2019-09-28,"Clemson (SC)","North Carolina",21,20,0
+1,2019-10-12,"Clemson (SC)","Florida St.",45,14,1
+1,2019-10-19,"Clemson (SC)","Louisville (KY)",45,10,0
+1,2019-10-26,"Clemson (SC)","Boston College (MA)",59,7,1
+1,2019-11-02,"Clemson (SC)","Wofford (SC)",59,14,1
+1,2019-11-09,"Clemson (SC)","North Carolina St.",55,10,0
+1,2019-11-16,"Clemson (SC)","Wake Forest (NC)",52,3,1
+1,2019-11-30,"Clemson (SC)","South Carolina",38,3,0
+1,2019-12-07,"Clemson (SC)","Virginia",62,17,1
+1,2019-12-28,"Clemson (SC)","Ohio St.",29,23,1
+0,2020-01-13,"Clemson (SC)","Louisiana St.",25,42,1
+0,2019-08-31,"Florida St.","Boise St. (ID)",31,36,1
+1,2019-09-07,"Florida St.","Louisiana-Monroe",45,44,1
+0,2019-09-14,"Florida St.","Virginia",24,31,0
+1,2019-09-21,"Florida St.","Louisville (KY)",35,24,1
+1,2019-09-28,"Florida St.","North Carolina St.",31,13,1
+0,2019-10-12,"Florida St.","Clemson (SC)",14,45,0
+0,2019-10-19,"Florida St.","Wake Forest (NC)",20,22,0
+1,2019-10-26,"Florida St.","Syracuse (NY)",35,17,1
+0,2019-11-02,"Florida St.","Miami (FL)",10,27,1
+1,2019-11-09,"Florida St.","Boston College (MA)",38,31,0
+1,2019-11-16,"Florida St.","Alabama St.",49,12,1
+0,2019-11-30,"Florida St.","Florida",17,40,0
+0,2019-12-31,"Florida St.","Arizona St.",14,20,1
+1,2019-08-30,"Wake Forest (NC)","Utah St.",38,35,1
+1,2019-09-06,"Wake Forest (NC)","Rice (TX)",41,21,0
+1,2019-09-13,"Wake Forest (NC)","North Carolina",24,18,1
+1,2019-09-21,"Wake Forest (NC)","Elon (NC)",49,7,1
+1,2019-09-28,"Wake Forest (NC)","Boston College (MA)",27,24,0
+0,2019-10-12,"Wake Forest (NC)","Louisville (KY)",59,62,1
+1,2019-10-19,"Wake Forest (NC)","Florida St.",22,20,1
+1,2019-11-02,"Wake Forest (NC)","North Carolina St.",44,10,1
+0,2019-11-09,"Wake Forest (NC)","Virginia Tech",17,36,0
+0,2019-11-16,"Wake Forest (NC)","Clemson (SC)",3,52,0
+1,2019-11-23,"Wake Forest (NC)","Duke (NC)",39,27,1
+0,2019-11-30,"Wake Forest (NC)","Syracuse (NY)",30,39,0
+0,2019-12-27,"Wake Forest (NC)","Michigan St.",21,27,1
+1,2019-08-31,"Boston College (MA)","Virginia Tech",35,28,1
+1,2019-09-07,"Boston College (MA)","Richmond (VA)",45,13,1
+0,2019-09-13,"Boston College (MA)","Kansas",24,48,1
+1,2019-09-21,"Boston College (MA)","Rutgers (NJ)",30,16,0
+0,2019-09-28,"Boston College (MA)","Wake Forest (NC)",24,27,1
+0,2019-10-05,"Boston College (MA)","Louisville (KY)",39,41,0
+1,2019-10-19,"Boston College (MA)","North Carolina St.",45,24,1
+0,2019-10-26,"Boston College (MA)","Clemson (SC)",7,59,0
+1,2019-11-02,"Boston College (MA)","Syracuse (NY)",58,27,0
+0,2019-11-09,"Boston College (MA)","Florida St.",31,38,1
+0,2019-11-23,"Boston College (MA)","Notre Dame (IN)",7,40,0
+1,2019-11-30,"Boston College (MA)","Pittsburgh (PA)",26,19,0
+0,2020-01-02,"Boston College (MA)","Cincinnati (OH)",6,38,1
+0,2019-08-24,"Miami (FL)","Florida",20,24,1
+0,2019-09-07,"Miami (FL)","North Carolina",25,28,0
+1,2019-09-14,"Miami (FL)","Bethune-Cookman (FL)",63,0,1
+1,2019-09-21,"Miami (FL)","Central Michigan",17,12,1
+0,2019-10-05,"Miami (FL)","Virginia Tech",35,42,1
+1,2019-10-11,"Miami (FL)","Virginia",17,9,1
+0,2019-10-19,"Miami (FL)","Georgia Tech",21,28,1
+1,2019-10-26,"Miami (FL)","Pittsburgh (PA)",16,12,0
+1,2019-11-02,"Miami (FL)","Florida St.",27,10,0
+1,2019-11-09,"Miami (FL)","Louisville (KY)",52,27,1
+0,2019-11-30,"Miami (FL)","Duke (NC)",17,27,0
+0,2019-12-26,"Miami (FL)","Louisiana Tech",0,14,1
+1,2019-08-31,"North Carolina St.","East Carolina (NC)",34,6,1
+1,2019-09-07,"North Carolina St.","Western Carolina (NC)",41,0,1
+0,2019-09-14,"North Carolina St.","West Virginia",27,44,0
+1,2019-09-21,"North Carolina St.","Ball St. (IN)",34,23,1
+0,2019-09-28,"North Carolina St.","Florida St.",13,31,0
+1,2019-10-10,"North Carolina St.","Syracuse (NY)",16,10,1
+0,2019-10-19,"North Carolina St.","Boston College (MA)",24,45,0
+0,2019-11-02,"North Carolina St.","Wake Forest (NC)",10,44,0
+0,2019-11-09,"North Carolina St.","Clemson (SC)",10,55,1
+0,2019-11-16,"North Carolina St.","Louisville (KY)",20,34,1
+0,2019-11-21,"North Carolina St.","Georgia Tech",26,28,0
+0,2019-11-30,"North Carolina St.","North Carolina",10,41,1
+0,2019-08-31,"Virginia Tech","Boston College (MA)",28,35,0
+1,2019-09-07,"Virginia Tech","Old Dominion (VA)",31,17,1
+1,2019-09-14,"Virginia Tech","Furman (SC)",24,17,1
+0,2019-09-27,"Virginia Tech","Duke (NC)",10,45,1
+1,2019-10-05,"Virginia Tech","Miami (FL)",42,35,0
+1,2019-10-12,"Virginia Tech","Rhode Island",34,17,1
+1,2019-10-19,"Virginia Tech","North Carolina",43,41,1
+0,2019-11-02,"Virginia Tech","Notre Dame (IN)",20,21,0
+1,2019-11-09,"Virginia Tech","Wake Forest (NC)",36,17,1
+1,2019-11-16,"Virginia Tech","Georgia Tech",45,0,0
+1,2019-11-23,"Virginia Tech","Pittsburgh (PA)",28,0,1
+0,2019-11-29,"Virginia Tech","Virginia",30,39,0
+0,2019-12-31,"Virginia Tech","Kentucky",30,37,1
+1,2019-08-31,"Virginia","Pittsburgh (PA)",30,14,0
+1,2019-09-06,"Virginia","William & Mary (VA)",52,17,1
+1,2019-09-14,"Virginia","Florida St.",31,24,1
+1,2019-09-21,"Virginia","Old Dominion (VA)",28,17,1
+0,2019-09-28,"Virginia","Notre Dame (IN)",20,35,0
+0,2019-10-11,"Virginia","Miami (FL)",9,17,0
+1,2019-10-19,"Virginia","Duke (NC)",48,14,1
+0,2019-10-26,"Virginia","Louisville (KY)",21,28,0
+1,2019-11-02,"Virginia","North Carolina",38,31,0
+1,2019-11-09,"Virginia","Georgia Tech",33,28,1
+1,2019-11-23,"Virginia","Liberty (VA)",55,27,1
+1,2019-11-29,"Virginia","Virginia Tech",39,30,1
+0,2019-12-07,"Virginia","Clemson (SC)",17,62,1
+0,2019-12-30,"Virginia","Florida",28,36,1
+1,2019-08-31,"Syracuse (NY)","Liberty (VA)",24,0,0
+0,2019-09-07,"Syracuse (NY)","Maryland",20,63,0
+0,2019-09-14,"Syracuse (NY)","Clemson (SC)",6,41,1
+1,2019-09-21,"Syracuse (NY)","Western Michigan",52,33,1
+1,2019-09-28,"Syracuse (NY)","Holy Cross (MA)",41,3,1
+0,2019-10-10,"Syracuse (NY)","North Carolina St.",10,16,0
+0,2019-10-18,"Syracuse (NY)","Pittsburgh (PA)",20,27,1
+0,2019-10-26,"Syracuse (NY)","Florida St.",17,35,0
+0,2019-11-02,"Syracuse (NY)","Boston College (MA)",27,58,1
+1,2019-11-16,"Syracuse (NY)","Duke (NC)",49,6,0
+0,2019-11-23,"Syracuse (NY)","Louisville (KY)",34,56,0
+1,2019-11-30,"Syracuse (NY)","Wake Forest (NC)",39,30,1
+0,2019-08-31,"Pittsburgh (PA)","Virginia",14,30,1
+1,2019-09-07,"Pittsburgh (PA)","Ohio",20,10,1
+0,2019-09-14,"Pittsburgh (PA)","Penn St.",10,17,0
+1,2019-09-21,"Pittsburgh (PA)","Central Florida",35,34,1
+1,2019-09-28,"Pittsburgh (PA)","Delaware",17,14,1
+1,2019-10-05,"Pittsburgh (PA)","Duke (NC)",33,30,0
+1,2019-10-18,"Pittsburgh (PA)","Syracuse (NY)",27,20,0
+0,2019-10-26,"Pittsburgh (PA)","Miami (FL)",12,16,1
+1,2019-11-02,"Pittsburgh (PA)","Georgia Tech",20,10,0
+1,2019-11-14,"Pittsburgh (PA)","North Carolina",34,27,1
+0,2019-11-23,"Pittsburgh (PA)","Virginia Tech",0,28,0
+0,2019-11-30,"Pittsburgh (PA)","Boston College (MA)",19,26,1
+1,2019-12-26,"Pittsburgh (PA)","Eastern Michigan",34,30,1
+1,2019-08-31,"North Carolina","South Carolina",24,20,1
+1,2019-09-07,"North Carolina","Miami (FL)",28,25,1
+0,2019-09-13,"North Carolina","Wake Forest (NC)",18,24,0
+0,2019-09-21,"North Carolina","Appalachian State (NC)",31,34,1
+0,2019-09-28,"North Carolina","Clemson (SC)",20,21,1
+1,2019-10-05,"North Carolina","Georgia Tech",38,22,0
+0,2019-10-19,"North Carolina","Virginia Tech",41,43,0
+1,2019-10-26,"North Carolina","Duke (NC)",20,17,1
+0,2019-11-02,"North Carolina","Virginia",31,38,1
+0,2019-11-14,"North Carolina","Pittsburgh (PA)",27,34,0
+1,2019-11-23,"North Carolina","Mercer (GA)",56,7,1
+1,2019-11-30,"North Carolina","North Carolina St.",41,10,0
+1,2019-12-27,"North Carolina","Temple (PA)",55,13,1
+1,2019-09-01,"Oklahoma","Houston (TX)",49,31,1
+1,2019-09-07,"Oklahoma","South Dakota",70,14,1
+1,2019-09-14,"Oklahoma","UCLA",48,14,0
+1,2019-09-28,"Oklahoma","Texas Tech",55,16,1
+1,2019-10-05,"Oklahoma","Kansas",45,20,0
+1,2019-10-12,"Oklahoma","Texas",34,27,1
+1,2019-10-19,"Oklahoma","West Virginia",52,14,1
+0,2019-10-26,"Oklahoma","Kansas St.",41,48,0
+1,2019-11-09,"Oklahoma","Iowa St.",42,41,1
+1,2019-11-16,"Oklahoma","Baylor (TX)",34,31,0
+1,2019-11-23,"Oklahoma","Texas Christian",28,24,1
+1,2019-11-30,"Oklahoma","Oklahoma St.",34,16,0
+1,2019-12-07,"Oklahoma","Baylor (TX)",30,23,1
+0,2019-12-28,"Oklahoma","Louisiana St.",28,63,1
+0,2019-08-31,"Duke (NC)","Alabama",3,42,1
+1,2019-09-07,"Duke (NC)","North Carolina A&T",45,13,1
+1,2019-09-14,"Duke (NC)","Middle Tennessee St.",41,18,0
+1,2019-09-27,"Duke (NC)","Virginia Tech",45,10,0
+0,2019-10-05,"Duke (NC)","Pittsburgh (PA)",30,33,1
+1,2019-10-12,"Duke (NC)","Georgia Tech",41,23,1
+0,2019-10-19,"Duke (NC)","Virginia",14,48,0
+0,2019-10-26,"Duke (NC)","North Carolina",17,20,0
+0,2019-11-09,"Duke (NC)","Notre Dame (IN)",7,38,1
+0,2019-11-16,"Duke (NC)","Syracuse (NY)",6,49,1
+0,2019-11-23,"Duke (NC)","Wake Forest (NC)",27,39,0
+1,2019-11-30,"Duke (NC)","Miami (FL)",27,17,1
+1,2019-08-31,"Baylor (TX)","Stephen F. Austin (TX)",56,17,1
+1,2019-09-07,"Baylor (TX)","Texas-San Antonio",63,14,1
+1,2019-09-21,"Baylor (TX)","Rice (TX)",21,13,0
+1,2019-09-28,"Baylor (TX)","Iowa St.",23,21,1
+1,2019-10-05,"Baylor (TX)","Kansas St.",31,12,0
+1,2019-10-12,"Baylor (TX)","Texas Tech",33,30,1
+1,2019-10-19,"Baylor (TX)","Oklahoma St.",45,27,0
+1,2019-10-31,"Baylor (TX)","West Virginia",17,14,1
+1,2019-11-09,"Baylor (TX)","Texas Christian",29,23,0
+0,2019-11-16,"Baylor (TX)","Oklahoma",31,34,1
+1,2019-11-23,"Baylor (TX)","Texas",24,10,1
+1,2019-11-30,"Baylor (TX)","Kansas",61,6,0
+0,2019-12-07,"Baylor (TX)","Oklahoma",23,30,1
+0,2020-01-01,"Baylor (TX)","Georgia",14,26,1
+0,2019-08-29,"Georgia Tech","Clemson (SC)",14,52,0
+1,2019-09-07,"Georgia Tech","South Florida",14,10,1
+0,2019-09-14,"Georgia Tech","Citadel (SC)",24,27,1
+0,2019-09-28,"Georgia Tech","Temple (PA)",2,24,0
+0,2019-10-05,"Georgia Tech","North Carolina",22,38,1
+0,2019-10-12,"Georgia Tech","Duke (NC)",23,41,0
+1,2019-10-19,"Georgia Tech","Miami (FL)",28,21,0
+0,2019-11-02,"Georgia Tech","Pittsburgh (PA)",10,20,1
+0,2019-11-09,"Georgia Tech","Virginia",28,33,0
+0,2019-11-16,"Georgia Tech","Virginia Tech",0,45,1
+1,2019-11-21,"Georgia Tech","North Carolina St.",28,26,1
+0,2019-11-30,"Georgia Tech","Georgia",7,52,1
+1,2019-08-31,"Kansas St.","Nicholls St. (LA)",49,14,1
+1,2019-09-07,"Kansas St.","Bowling Green (OH)",52,0,1
+1,2019-09-14,"Kansas St.","Mississippi St.",31,24,0
+0,2019-09-28,"Kansas St.","Oklahoma St.",13,26,0
+0,2019-10-05,"Kansas St.","Baylor (TX)",12,31,1
+1,2019-10-19,"Kansas St.","Texas Christian",24,17,1
+1,2019-10-26,"Kansas St.","Oklahoma",48,41,1
+1,2019-11-02,"Kansas St.","Kansas",38,10,0
+0,2019-11-09,"Kansas St.","Texas",24,27,0
+0,2019-11-16,"Kansas St.","West Virginia",20,24,1
+1,2019-11-23,"Kansas St.","Texas Tech",30,27,0
+1,2019-11-30,"Kansas St.","Iowa St.",27,17,1
+0,2019-12-31,"Kansas St.","Navy (MD)",17,20,1
+1,2019-08-31,"Texas","Louisiana Tech",45,14,1
+0,2019-09-07,"Texas","Louisiana St.",38,45,1
+1,2019-09-14,"Texas","Rice (TX)",48,13,1
+1,2019-09-21,"Texas","Oklahoma St.",36,30,1
+1,2019-10-05,"Texas","West Virginia",42,31,0
+0,2019-10-12,"Texas","Oklahoma",27,34,1
+1,2019-10-19,"Texas","Kansas",50,48,1
+0,2019-10-26,"Texas","Texas Christian",27,37,0
+1,2019-11-09,"Texas","Kansas St.",27,24,1
+0,2019-11-16,"Texas","Iowa St.",21,23,0
+0,2019-11-23,"Texas","Baylor (TX)",10,24,0
+1,2019-11-29,"Texas","Texas Tech",49,24,1
+1,2019-12-31,"Texas","Utah",38,10,1
+1,2019-08-30,"Oklahoma St.","Oregon St.",52,36,0
+1,2019-09-07,"Oklahoma St.","McNeese St. (LA)",56,14,1
+1,2019-09-14,"Oklahoma St.","Tulsa (OK)",40,21,0
+0,2019-09-21,"Oklahoma St.","Texas",30,36,0
+1,2019-09-28,"Oklahoma St.","Kansas St.",26,13,1
+0,2019-10-05,"Oklahoma St.","Texas Tech",35,45,0
+0,2019-10-19,"Oklahoma St.","Baylor (TX)",27,45,1
+1,2019-10-26,"Oklahoma St.","Iowa St.",34,27,0
+1,2019-11-02,"Oklahoma St.","Texas Christian",34,27,1
+1,2019-11-16,"Oklahoma St.","Kansas",31,13,1
+1,2019-11-23,"Oklahoma St.","West Virginia",20,13,0
+0,2019-11-30,"Oklahoma St.","Oklahoma",16,34,1
+0,2019-12-27,"Oklahoma St.","Texas A&M",21,24,1
+1,2019-08-31,"Iowa St.","Northern Iowa",29,26,1
+0,2019-09-14,"Iowa St.","Iowa",17,18,1
+1,2019-09-21,"Iowa St.","Louisiana-Monroe",72,20,1
+0,2019-09-28,"Iowa St.","Baylor (TX)",21,23,0
+1,2019-10-05,"Iowa St.","Texas Christian",49,24,1
+1,2019-10-12,"Iowa St.","West Virginia",38,14,0
+1,2019-10-19,"Iowa St.","Texas Tech",34,24,0
+0,2019-10-26,"Iowa St.","Oklahoma St.",27,34,1
+0,2019-11-09,"Iowa St.","Oklahoma",41,42,0
+1,2019-11-16,"Iowa St.","Texas",23,21,1
+1,2019-11-23,"Iowa St.","Kansas",41,31,1
+0,2019-11-30,"Iowa St.","Kansas St.",17,27,0
+0,2019-12-28,"Iowa St.","Notre Dame (IN)",9,33,1
+1,2019-08-31,"Kansas","Indiana St.",24,17,1
+0,2019-09-07,"Kansas","Coastal Carolina (SC)",7,12,1
+1,2019-09-13,"Kansas","Boston College (MA)",48,24,0
+0,2019-09-21,"Kansas","West Virginia",24,29,1
+0,2019-09-28,"Kansas","Texas Christian",14,51,0
+0,2019-10-05,"Kansas","Oklahoma",20,45,1
+0,2019-10-19,"Kansas","Texas",48,50,0
+1,2019-10-26,"Kansas","Texas Tech",37,34,1
+0,2019-11-02,"Kansas","Kansas St.",10,38,1
+0,2019-11-16,"Kansas","Oklahoma St.",13,31,0
+0,2019-11-23,"Kansas","Iowa St.",31,41,0
+0,2019-11-30,"Kansas","Baylor (TX)",6,61,1
+1,2019-08-31,"West Virginia","James Madison (VA)",20,13,1
+0,2019-09-07,"West Virginia","Missouri",7,38,0
+1,2019-09-14,"West Virginia","North Carolina St.",44,27,1
+1,2019-09-21,"West Virginia","Kansas",29,24,0
+0,2019-10-05,"West Virginia","Texas",31,42,1
+0,2019-10-12,"West Virginia","Iowa St.",14,38,1
+0,2019-10-19,"West Virginia","Oklahoma",14,52,0
+0,2019-10-31,"West Virginia","Baylor (TX)",14,17,0
+0,2019-11-09,"West Virginia","Texas Tech",17,38,1
+1,2019-11-16,"West Virginia","Kansas St.",24,20,0
+0,2019-11-23,"West Virginia","Oklahoma St.",13,20,1
+1,2019-11-29,"West Virginia","Texas Christian",20,17,0
+1,2019-08-31,"Texas Christian","Arkansas-Pine Bluff",39,7,1
+1,2019-09-14,"Texas Christian","Purdue (IN)",34,13,0
+0,2019-09-21,"Texas Christian","Southern Methodist (TX)",38,41,1
+1,2019-09-28,"Texas Christian","Kansas",51,14,1
+0,2019-10-05,"Texas Christian","Iowa St.",24,49,0
+0,2019-10-19,"Texas Christian","Kansas St.",17,24,0
+1,2019-10-26,"Texas Christian","Texas",37,27,1
+0,2019-11-02,"Texas Christian","Oklahoma St.",27,34,0
+0,2019-11-09,"Texas Christian","Baylor (TX)",23,29,1
+1,2019-11-16,"Texas Christian","Texas Tech",33,31,0
+0,2019-11-23,"Texas Christian","Oklahoma",24,28,0
+0,2019-11-29,"Texas Christian","West Virginia",17,20,1
+1,2019-08-31,"Texas Tech","Montana St.",45,10,1
+1,2019-09-07,"Texas Tech","Texas-El Paso",38,3,1
+0,2019-09-14,"Texas Tech","Arizona",14,28,0
+0,2019-09-28,"Texas Tech","Oklahoma",16,55,0
+1,2019-10-05,"Texas Tech","Oklahoma St.",45,35,1
+0,2019-10-12,"Texas Tech","Baylor (TX)",30,33,0
+0,2019-10-19,"Texas Tech","Iowa St.",24,34,1
+0,2019-10-26,"Texas Tech","Kansas",34,37,0
+1,2019-11-09,"Texas Tech","West Virginia",38,17,0
+0,2019-11-16,"Texas Tech","Texas Christian",31,33,1
+0,2019-11-23,"Texas Tech","Kansas St.",27,30,1
+0,2019-11-29,"Texas Tech","Texas",24,49,0
+1,2019-08-31,"Ohio St.","Florida Atlantic",45,21,1
+1,2019-09-07,"Ohio St.","Cincinnati (OH)",42,0,1
+1,2019-09-14,"Ohio St.","Indiana",51,10,0
+1,2019-09-21,"Ohio St.","Miami (OH)",76,5,1
+1,2019-09-28,"Ohio St.","Nebraska",48,7,0
+1,2019-10-05,"Ohio St.","Michigan St.",34,10,1
+1,2019-10-18,"Ohio St.","Northwestern (IL)",52,3,0
+1,2019-10-26,"Ohio St.","Wisconsin",38,7,1
+1,2019-11-09,"Ohio St.","Maryland",73,14,1
+1,2019-11-16,"Ohio St.","Rutgers (NJ)",56,21,0
+1,2019-11-23,"Ohio St.","Penn St.",28,17,1
+1,2019-11-30,"Ohio St.","Michigan",56,27,0
+1,2019-12-07,"Ohio St.","Wisconsin",34,21,1
+0,2019-12-28,"Ohio St.","Clemson (SC)",23,29,1
+1,2019-08-31,"Penn St.","Idaho",79,7,1
+1,2019-09-07,"Penn St.","Buffalo (NY)",45,13,1
+1,2019-09-14,"Penn St.","Pittsburgh (PA)",17,10,1
+1,2019-09-27,"Penn St.","Maryland",59,0,0
+1,2019-10-05,"Penn St.","Purdue (IN)",35,7,1
+1,2019-10-12,"Penn St.","Iowa",17,12,0
+1,2019-10-19,"Penn St.","Michigan",28,21,1
+1,2019-10-26,"Penn St.","Michigan St.",28,7,0
+0,2019-11-09,"Penn St.","Minnesota",26,31,0
+1,2019-11-16,"Penn St.","Indiana",34,27,1
+0,2019-11-23,"Penn St.","Ohio St.",17,28,0
+1,2019-11-30,"Penn St.","Rutgers (NJ)",27,6,1
+1,2019-12-28,"Penn St.","Memphis (TN)",53,39,1
+1,2019-08-31,"Michigan","Middle Tennessee St.",40,21,1
+1,2019-09-07,"Michigan","Army (NY)",24,21,1
+0,2019-09-21,"Michigan","Wisconsin",14,35,0
+1,2019-09-28,"Michigan","Rutgers (NJ)",52,0,1
+1,2019-10-05,"Michigan","Iowa",10,3,1
+1,2019-10-12,"Michigan","Illinois",42,25,0
+0,2019-10-19,"Michigan","Penn St.",21,28,0
+1,2019-10-26,"Michigan","Notre Dame (IN)",45,14,1
+1,2019-11-02,"Michigan","Maryland",38,7,0
+1,2019-11-16,"Michigan","Michigan St.",44,10,1
+1,2019-11-23,"Michigan","Indiana",39,14,0
+0,2019-11-30,"Michigan","Ohio St.",27,56,1
+0,2020-01-01,"Michigan","Alabama",16,35,1
+1,2019-08-31,"Indiana","Ball St. (IN)",34,24,1
+1,2019-09-07,"Indiana","Eastern Illinois",52,0,1
+0,2019-09-14,"Indiana","Ohio St.",10,51,1
+1,2019-09-21,"Indiana","Connecticut",38,3,1
+0,2019-09-28,"Indiana","Michigan St.",31,40,0
+1,2019-10-12,"Indiana","Rutgers (NJ)",35,0,1
+1,2019-10-19,"Indiana","Maryland",34,28,0
+1,2019-10-26,"Indiana","Nebraska",38,31,0
+1,2019-11-02,"Indiana","Northwestern (IL)",34,3,1
+0,2019-11-16,"Indiana","Penn St.",27,34,0
+0,2019-11-23,"Indiana","Michigan",14,39,1
+1,2019-11-30,"Indiana","Purdue (IN)",44,41,0
+0,2020-01-02,"Indiana","Tennessee",22,23,1
+1,2019-08-31,"Maryland","Howard (DC)",79,0,1
+1,2019-09-07,"Maryland","Syracuse (NY)",63,20,1
+0,2019-09-14,"Maryland","Temple (PA)",17,20,0
+0,2019-09-27,"Maryland","Penn St.",0,59,1
+1,2019-10-05,"Maryland","Rutgers (NJ)",48,7,0
+0,2019-10-12,"Maryland","Purdue (IN)",14,40,0
+0,2019-10-19,"Maryland","Indiana",28,34,1
+0,2019-10-26,"Maryland","Minnesota",10,52,0
+0,2019-11-02,"Maryland","Michigan",7,38,1
+0,2019-11-09,"Maryland","Ohio St.",14,73,0
+0,2019-11-23,"Maryland","Nebraska",7,54,1
+0,2019-11-30,"Maryland","Michigan St.",16,19,0
+1,2019-08-30,"Michigan St.","Tulsa (OK)",28,7,1
+1,2019-09-07,"Michigan St.","Western Michigan",51,17,1
+0,2019-09-14,"Michigan St.","Arizona St.",7,10,1
+1,2019-09-21,"Michigan St.","Northwestern (IL)",31,10,0
+1,2019-09-28,"Michigan St.","Indiana",40,31,1
+0,2019-10-05,"Michigan St.","Ohio St.",10,34,0
+0,2019-10-12,"Michigan St.","Wisconsin",0,38,0
+0,2019-10-26,"Michigan St.","Penn St.",7,28,1
+0,2019-11-09,"Michigan St.","Illinois",34,37,1
+0,2019-11-16,"Michigan St.","Michigan",10,44,0
+1,2019-11-23,"Michigan St.","Rutgers (NJ)",27,0,0
+1,2019-11-30,"Michigan St.","Maryland",19,16,1
+1,2019-12-27,"Michigan St.","Wake Forest (NC)",27,21,1
+1,2019-08-30,"Rutgers (NJ)","Massachusetts",48,21,1
+0,2019-09-07,"Rutgers (NJ)","Iowa",0,30,0
+0,2019-09-21,"Rutgers (NJ)","Boston College (MA)",16,30,1
+0,2019-09-28,"Rutgers (NJ)","Michigan",0,52,0
+0,2019-10-05,"Rutgers (NJ)","Maryland",7,48,1
+0,2019-10-12,"Rutgers (NJ)","Indiana",0,35,0
+0,2019-10-19,"Rutgers (NJ)","Minnesota",7,42,1
+1,2019-10-26,"Rutgers (NJ)","Liberty (VA)",44,34,1
+0,2019-11-02,"Rutgers (NJ)","Illinois",10,38,0
+0,2019-11-16,"Rutgers (NJ)","Ohio St.",21,56,1
+0,2019-11-23,"Rutgers (NJ)","Michigan St.",0,27,1
+0,2019-11-30,"Rutgers (NJ)","Penn St.",6,27,0
+1,2019-09-07,"Minnesota","Fresno St. (CA)",38,35,0
+1,2019-09-14,"Minnesota","Georgia Southern",35,32,1
+1,2019-09-28,"Minnesota","Purdue (IN)",38,31,0
+1,2019-10-05,"Minnesota","Illinois",40,17,1
+1,2019-10-12,"Minnesota","Nebraska",34,7,1
+1,2019-10-19,"Minnesota","Rutgers (NJ)",42,7,0
+1,2019-10-26,"Minnesota","Maryland",52,10,1
+1,2019-11-09,"Minnesota","Penn St.",31,26,1
+0,2019-11-16,"Minnesota","Iowa",19,23,0
+1,2019-11-23,"Minnesota","Northwestern (IL)",38,22,0
+0,2019-11-30,"Minnesota","Wisconsin",17,38,1
+1,2020-01-01,"Minnesota","Auburn (AL)",31,24,1
+1,2019-08-30,"Wisconsin","South Florida",49,0,0
+1,2019-09-07,"Wisconsin","Central Michigan",61,0,1
+1,2019-09-21,"Wisconsin","Michigan",35,14,1
+1,2019-09-28,"Wisconsin","Northwestern (IL)",24,15,1
+1,2019-10-05,"Wisconsin","Kent St. (OH)",48,0,1
+1,2019-10-12,"Wisconsin","Michigan St.",38,0,1
+0,2019-10-19,"Wisconsin","Illinois",23,24,0
+0,2019-10-26,"Wisconsin","Ohio St.",7,38,0
+1,2019-11-09,"Wisconsin","Iowa",24,22,1
+1,2019-11-16,"Wisconsin","Nebraska",37,21,0
+1,2019-11-23,"Wisconsin","Purdue (IN)",45,24,1
+1,2019-11-30,"Wisconsin","Minnesota",38,17,0
+0,2019-12-07,"Wisconsin","Ohio St.",21,34,1
+0,2020-01-01,"Wisconsin","Oregon",27,28,1
+1,2019-08-31,"Illinois","Akron (OH)",42,3,1
+1,2019-09-07,"Illinois","Connecticut",31,23,0
+0,2019-09-14,"Illinois","Eastern Michigan",31,34,1
+0,2019-09-21,"Illinois","Nebraska",38,42,1
+0,2019-10-05,"Illinois","Minnesota",17,40,0
+0,2019-10-12,"Illinois","Michigan",25,42,1
+1,2019-10-19,"Illinois","Wisconsin",24,23,1
+1,2019-10-26,"Illinois","Purdue (IN)",24,6,0
+1,2019-11-02,"Illinois","Rutgers (NJ)",38,10,1
+1,2019-11-09,"Illinois","Michigan St.",37,34,0
+0,2019-11-23,"Illinois","Iowa",10,19,0
+0,2019-11-30,"Illinois","Northwestern (IL)",10,29,1
+0,2019-12-30,"Illinois","California",20,35,1
+0,2019-08-30,"Purdue (IN)","Nevada",31,34,0
+1,2019-09-07,"Purdue (IN)","Vanderbilt (TN)",42,24,1
+0,2019-09-14,"Purdue (IN)","Texas Christian",13,34,1
+0,2019-09-28,"Purdue (IN)","Minnesota",31,38,1
+0,2019-10-05,"Purdue (IN)","Penn St.",7,35,0
+1,2019-10-12,"Purdue (IN)","Maryland",40,14,1
+0,2019-10-19,"Purdue (IN)","Iowa",20,26,0
+0,2019-10-26,"Purdue (IN)","Illinois",6,24,1
+1,2019-11-02,"Purdue (IN)","Nebraska",31,27,1
+1,2019-11-09,"Purdue (IN)","Northwestern (IL)",24,22,0
+0,2019-11-23,"Purdue (IN)","Wisconsin",24,45,0
+0,2019-11-30,"Purdue (IN)","Indiana",41,44,1
+1,2019-08-31,"Iowa","Miami (OH)",38,14,1
+1,2019-09-07,"Iowa","Rutgers (NJ)",30,0,1
+1,2019-09-14,"Iowa","Iowa St.",18,17,0
+1,2019-09-28,"Iowa","Middle Tennessee St.",48,3,1
+0,2019-10-05,"Iowa","Michigan",3,10,0
+0,2019-10-12,"Iowa","Penn St.",12,17,1
+1,2019-10-19,"Iowa","Purdue (IN)",26,20,1
+1,2019-10-26,"Iowa","Northwestern (IL)",20,0,0
+0,2019-11-09,"Iowa","Wisconsin",22,24,0
+1,2019-11-16,"Iowa","Minnesota",23,19,1
+1,2019-11-23,"Iowa","Illinois",19,10,1
+1,2019-11-29,"Iowa","Nebraska",27,24,0
+1,2019-12-27,"Iowa","Southern California",49,24,1
+1,2019-08-31,"Nebraska","South Alabama",35,21,1
+0,2019-09-07,"Nebraska","Colorado",31,34,0
+1,2019-09-14,"Nebraska","Northern Illinois",44,8,1
+1,2019-09-21,"Nebraska","Illinois",42,38,0
+0,2019-09-28,"Nebraska","Ohio St.",7,48,1
+1,2019-10-05,"Nebraska","Northwestern (IL)",13,10,1
+0,2019-10-12,"Nebraska","Minnesota",7,34,0
+0,2019-10-26,"Nebraska","Indiana",31,38,1
+0,2019-11-02,"Nebraska","Purdue (IN)",27,31,0
+0,2019-11-16,"Nebraska","Wisconsin",21,37,1
+1,2019-11-23,"Nebraska","Maryland",54,7,0
+0,2019-11-29,"Nebraska","Iowa",24,27,1
+0,2019-08-31,"Northwestern (IL)","Stanford (CA)",7,17,0
+1,2019-09-14,"Northwestern (IL)","Nevada-Las Vegas",30,14,1
+0,2019-09-21,"Northwestern (IL)","Michigan St.",10,31,1
+0,2019-09-28,"Northwestern (IL)","Wisconsin",15,24,0
+0,2019-10-05,"Northwestern (IL)","Nebraska",10,13,0
+0,2019-10-18,"Northwestern (IL)","Ohio St.",3,52,1
+0,2019-10-26,"Northwestern (IL)","Iowa",0,20,1
+0,2019-11-02,"Northwestern (IL)","Indiana",3,34,0
+0,2019-11-09,"Northwestern (IL)","Purdue (IN)",22,24,1
+1,2019-11-16,"Northwestern (IL)","Massachusetts",45,6,1
+0,2019-11-23,"Northwestern (IL)","Minnesota",22,38,1
+1,2019-11-30,"Northwestern (IL)","Illinois",29,10,0
+0,2019-08-31,"Florida Atlantic","Ohio St.",21,45,0
+0,2019-09-07,"Florida Atlantic","Central Florida",14,48,1
+1,2019-09-14,"Florida Atlantic","Ball St. (IN)",41,31,0
+1,2019-09-21,"Florida Atlantic","Wagner (NY)",42,7,1
+1,2019-09-28,"Florida Atlantic","North Carolina-Charlotte",45,27,0
+1,2019-10-12,"Florida Atlantic","Middle Tennessee St.",28,13,1
+0,2019-10-18,"Florida Atlantic","Marshall (WV)",31,36,1
+1,2019-10-26,"Florida Atlantic","Old Dominion (VA)",41,3,0
+1,2019-11-02,"Florida Atlantic","Western Kentucky",35,24,0
+1,2019-11-23,"Florida Atlantic","Texas-San Antonio",40,26,0
+1,2019-11-30,"Florida Atlantic","Southern Mississippi",34,17,1
+1,2019-12-07,"Florida Atlantic","Alabama-Birmingham",49,6,1
+1,2019-12-21,"Florida Atlantic","Southern Methodist (TX)",52,28,1
+1,2019-08-31,"Marshall (WV)","Virginia Military Institute",56,17,1
+0,2019-09-06,"Marshall (WV)","Boise St. (ID)",7,14,0
+1,2019-09-14,"Marshall (WV)","Ohio",33,31,1
+0,2019-09-28,"Marshall (WV)","Cincinnati (OH)",14,52,1
+0,2019-10-05,"Marshall (WV)","Middle Tennessee St.",13,24,0
+1,2019-10-12,"Marshall (WV)","Old Dominion (VA)",31,17,1
+1,2019-10-18,"Marshall (WV)","Florida Atlantic",36,31,0
+1,2019-10-26,"Marshall (WV)","Western Kentucky",26,23,1
+1,2019-11-02,"Marshall (WV)","Rice (TX)",20,7,0
+1,2019-11-15,"Marshall (WV)","Louisiana Tech",31,10,1
+0,2019-11-23,"Marshall (WV)","North Carolina-Charlotte",13,24,0
+0,2019-12-23,"Marshall (WV)","Central Florida",25,48,1
+1,2019-08-29,"North Carolina-Charlotte","Gardner-Webb (NC)",49,28,1
+0,2019-09-07,"North Carolina-Charlotte","Appalachian State (NC)",41,56,0
+1,2019-09-14,"North Carolina-Charlotte","Massachusetts",52,17,1
+0,2019-09-21,"North Carolina-Charlotte","Clemson (SC)",10,52,0
+0,2019-09-28,"North Carolina-Charlotte","Florida Atlantic",27,45,1
+0,2019-10-19,"North Carolina-Charlotte","Western Kentucky",14,30,0
+1,2019-10-26,"North Carolina-Charlotte","North Texas",39,38,1
+1,2019-11-02,"North Carolina-Charlotte","Middle Tennessee St.",34,20,1
+1,2019-11-09,"North Carolina-Charlotte","Texas-El Paso",28,21,0
+1,2019-11-23,"North Carolina-Charlotte","Marshall (WV)",24,13,1
+1,2019-11-30,"North Carolina-Charlotte","Old Dominion (VA)",38,22,0
+0,2019-12-20,"North Carolina-Charlotte","Buffalo (NY)",9,31,1
+0,2019-08-29,"Western Kentucky","Central Arkansas",28,35,1
+0,2019-09-14,"Western Kentucky","Louisville (KY)",21,38,1
+1,2019-09-28,"Western Kentucky","Alabama-Birmingham",20,13,1
+1,2019-10-05,"Western Kentucky","Old Dominion (VA)",20,3,0
+1,2019-10-12,"Western Kentucky","Army (NY)",17,8,1
+1,2019-10-19,"Western Kentucky","North Carolina-Charlotte",30,14,1
+0,2019-10-26,"Western Kentucky","Marshall (WV)",23,26,0
+0,2019-11-02,"Western Kentucky","Florida Atlantic",24,35,1
+1,2019-11-09,"Western Kentucky","Arkansas",45,19,0
+1,2019-11-23,"Western Kentucky","Southern Mississippi",28,10,0
+1,2019-11-30,"Western Kentucky","Middle Tennessee St.",31,26,1
+1,2019-12-30,"Western Kentucky","Western Michigan",23,20,1
+0,2019-08-31,"Middle Tennessee St.","Michigan",21,40,0
+1,2019-09-07,"Middle Tennessee St.","Tennessee St.",45,26,1
+0,2019-09-14,"Middle Tennessee St.","Duke (NC)",18,41,1
+0,2019-09-28,"Middle Tennessee St.","Iowa",3,48,0
+1,2019-10-05,"Middle Tennessee St.","Marshall (WV)",24,13,1
+0,2019-10-12,"Middle Tennessee St.","Florida Atlantic",13,28,0
+0,2019-10-19,"Middle Tennessee St.","North Texas",30,33,0
+0,2019-11-02,"Middle Tennessee St.","North Carolina-Charlotte",20,34,0
+0,2019-11-16,"Middle Tennessee St.","Rice (TX)",28,31,1
+1,2019-11-23,"Middle Tennessee St.","Old Dominion (VA)",38,17,1
+0,2019-11-30,"Middle Tennessee St.","Western Kentucky",26,31,0
+0,2019-08-29,"Florida International","Tulane (LA)",14,42,0
+0,2019-09-07,"Florida International","Western Kentucky",14,20,1
+1,2019-09-14,"Florida International","New Hampshire",30,17,1
+0,2019-09-20,"Florida International","Louisiana Tech",31,43,0
+1,2019-10-05,"Florida International","Massachusetts",44,0,1
+1,2019-10-12,"Florida International","North Carolina-Charlotte",48,23,1
+1,2019-10-19,"Florida International","Texas-El Paso",32,17,1
+0,2019-10-26,"Florida International","Middle Tennessee St.",17,50,0
+1,2019-11-02,"Florida International","Old Dominion (VA)",24,17,1
+0,2019-11-09,"Florida International","Florida Atlantic",7,37,0
+1,2019-11-23,"Florida International","Miami (FL)",30,24,1
+0,2019-11-30,"Florida International","Marshall (WV)",27,30,0
+0,2019-12-21,"Florida International","Arkansas St.",26,34,1
+1,2019-08-31,"Old Dominion (VA)","Norfolk St. (VA)",24,21,1
+0,2019-09-07,"Old Dominion (VA)","Virginia Tech",17,31,0
+0,2019-09-21,"Old Dominion (VA)","Virginia",17,28,0
+0,2019-09-28,"Old Dominion (VA)","East Carolina (NC)",21,24,1
+0,2019-10-05,"Old Dominion (VA)","Western Kentucky",3,20,1
+0,2019-10-12,"Old Dominion (VA)","Marshall (WV)",17,31,0
+0,2019-10-19,"Old Dominion (VA)","Alabama-Birmingham",14,38,0
+0,2019-10-26,"Old Dominion (VA)","Florida Atlantic",3,41,1
+0,2019-11-09,"Old Dominion (VA)","Texas-San Antonio",23,24,1
+0,2019-11-23,"Old Dominion (VA)","Middle Tennessee St.",17,38,0
+0,2019-11-30,"Old Dominion (VA)","North Carolina-Charlotte",22,38,1
+1,2019-08-29,"Alabama-Birmingham","Alabama St.",24,19,1
+1,2019-09-07,"Alabama-Birmingham","Akron (OH)",31,20,0
+1,2019-09-21,"Alabama-Birmingham","South Alabama",35,3,1
+0,2019-09-28,"Alabama-Birmingham","Western Kentucky",13,20,0
+1,2019-10-05,"Alabama-Birmingham","Rice (TX)",35,20,1
+1,2019-10-12,"Alabama-Birmingham","Texas-San Antonio",33,14,0
+1,2019-10-19,"Alabama-Birmingham","Old Dominion (VA)",38,14,1
+0,2019-11-02,"Alabama-Birmingham","Tennessee",7,30,0
+0,2019-11-09,"Alabama-Birmingham","Southern Mississippi",2,37,0
+1,2019-11-16,"Alabama-Birmingham","Texas-El Paso",37,10,1
+1,2019-11-23,"Alabama-Birmingham","Louisiana Tech",20,14,1
+1,2019-11-30,"Alabama-Birmingham","North Texas",26,21,0
+0,2019-12-07,"Alabama-Birmingham","Florida Atlantic",6,49,0
+0,2019-12-21,"Alabama-Birmingham","Appalachian State (NC)",17,31,1
+0,2019-08-31,"Louisiana Tech","Texas",14,45,0
+1,2019-09-07,"Louisiana Tech","Grambling St. (LA)",20,14,1
+1,2019-09-14,"Louisiana Tech","Bowling Green (OH)",35,7,0
+1,2019-09-28,"Louisiana Tech","Rice (TX)",23,20,0
+1,2019-10-12,"Louisiana Tech","Massachusetts",69,21,1
+1,2019-10-19,"Louisiana Tech","Southern Mississippi",45,30,1
+1,2019-10-26,"Louisiana Tech","Texas-El Paso",42,21,0
+1,2019-11-09,"Louisiana Tech","North Texas",52,17,1
+0,2019-11-15,"Louisiana Tech","Marshall (WV)",10,31,0
+0,2019-11-23,"Louisiana Tech","Alabama-Birmingham",14,20,0
+1,2019-11-30,"Louisiana Tech","Texas-San Antonio",41,27,1
+1,2019-12-26,"Louisiana Tech","Miami (FL)",14,0,1
+0,2019-08-30,"Rice (TX)","Army (NY)",7,14,0
+0,2019-09-06,"Rice (TX)","Wake Forest (NC)",21,41,1
+0,2019-09-14,"Rice (TX)","Texas",13,48,1
+0,2019-09-21,"Rice (TX)","Baylor (TX)",13,21,1
+0,2019-09-28,"Rice (TX)","Louisiana Tech",20,23,1
+0,2019-10-05,"Rice (TX)","Alabama-Birmingham",20,35,0
+0,2019-10-19,"Rice (TX)","Texas-San Antonio",27,31,0
+0,2019-10-26,"Rice (TX)","Southern Mississippi",6,20,1
+0,2019-11-02,"Rice (TX)","Marshall (WV)",7,20,1
+1,2019-11-16,"Rice (TX)","Middle Tennessee St.",31,28,0
+1,2019-11-23,"Rice (TX)","North Texas",20,14,1
+1,2019-11-30,"Rice (TX)","Texas-El Paso",30,16,0
+1,2019-08-31,"Southern Mississippi","Alcorn St. (MS)",38,10,1
+0,2019-09-07,"Southern Mississippi","Mississippi St.",15,38,0
+1,2019-09-14,"Southern Mississippi","Troy (AL)",47,42,0
+0,2019-09-21,"Southern Mississippi","Alabama",7,49,0
+1,2019-09-28,"Southern Mississippi","Texas-El Paso",31,13,1
+1,2019-10-12,"Southern Mississippi","North Texas",45,27,1
+0,2019-10-19,"Southern Mississippi","Louisiana Tech",30,45,0
+1,2019-10-26,"Southern Mississippi","Rice (TX)",20,6,0
+1,2019-11-09,"Southern Mississippi","Alabama-Birmingham",37,2,1
+1,2019-11-16,"Southern Mississippi","Texas-San Antonio",36,17,0
+0,2019-11-23,"Southern Mississippi","Western Kentucky",10,28,1
+0,2019-11-30,"Southern Mississippi","Florida Atlantic",17,34,0
+0,2020-01-04,"Southern Mississippi","Tulane (LA)",13,30,1
+1,2019-08-31,"North Texas","Abilene Christian (TX)",51,31,1
+0,2019-09-07,"North Texas","Southern Methodist (TX)",27,49,0
+0,2019-09-14,"North Texas","California",17,23,0
+1,2019-09-21,"North Texas","Texas-San Antonio",45,3,1
+0,2019-09-28,"North Texas","Houston (TX)",25,46,1
+0,2019-10-12,"North Texas","Southern Mississippi",27,45,0
+1,2019-10-19,"North Texas","Middle Tennessee St.",33,30,1
+0,2019-10-26,"North Texas","North Carolina-Charlotte",38,39,0
+1,2019-11-02,"North Texas","Texas-El Paso",52,26,1
+0,2019-11-09,"North Texas","Louisiana Tech",17,52,0
+0,2019-11-23,"North Texas","Rice (TX)",14,20,0
+0,2019-11-30,"North Texas","Alabama-Birmingham",21,26,1
+1,2019-08-31,"Texas-El Paso","Houston Baptist (TX)",36,34,1
+0,2019-09-07,"Texas-El Paso","Texas Tech",3,38,0
+0,2019-09-21,"Texas-El Paso","Nevada",21,37,1
+0,2019-09-28,"Texas-El Paso","Southern Mississippi",13,31,0
+0,2019-10-05,"Texas-El Paso","Texas-San Antonio",16,26,1
+0,2019-10-26,"Texas-El Paso","Louisiana Tech",21,42,1
+0,2019-11-02,"Texas-El Paso","North Texas",26,52,0
+0,2019-11-09,"Texas-El Paso","North Carolina-Charlotte",21,28,1
+0,2019-11-16,"Texas-El Paso","Alabama-Birmingham",10,37,0
+0,2019-11-23,"Texas-El Paso","New Mexico St.",35,44,0
+0,2019-11-30,"Texas-El Paso","Rice (TX)",16,30,1
+1,2019-08-31,"Texas-San Antonio","Incarnate Word (TX)",35,7,1
+0,2019-09-07,"Texas-San Antonio","Baylor (TX)",14,63,0
+0,2019-09-14,"Texas-San Antonio","Army (NY)",13,31,1
+0,2019-09-21,"Texas-San Antonio","North Texas",3,45,0
+1,2019-10-05,"Texas-San Antonio","Texas-El Paso",26,16,0
+0,2019-10-12,"Texas-San Antonio","Alabama-Birmingham",14,33,1
+1,2019-10-19,"Texas-San Antonio","Rice (TX)",31,27,1
+0,2019-11-02,"Texas-San Antonio","Texas A&M",14,45,0
+1,2019-11-09,"Texas-San Antonio","Old Dominion (VA)",24,23,0
+0,2019-11-16,"Texas-San Antonio","Southern Mississippi",17,36,1
+0,2019-11-23,"Texas-San Antonio","Florida Atlantic",26,40,1
+0,2019-11-30,"Texas-San Antonio","Louisiana Tech",27,41,0
+0,2019-08-31,"Liberty (VA)","Syracuse (NY)",0,24,1
+0,2019-09-07,"Liberty (VA)","Louisiana-Lafayette",14,35,0
+1,2019-09-14,"Liberty (VA)","Buffalo (NY)",35,17,1
+1,2019-09-21,"Liberty (VA)","Hampton (VA)",62,27,1
+1,2019-09-28,"Liberty (VA)","New Mexico",17,10,1
+1,2019-10-05,"Liberty (VA)","New Mexico St.",20,13,0
+1,2019-10-19,"Liberty (VA)","Maine",59,44,1
+0,2019-10-26,"Liberty (VA)","Rutgers (NJ)",34,44,0
+1,2019-11-02,"Liberty (VA)","Massachusetts",63,21,0
+0,2019-11-09,"Liberty (VA)","Brigham Young (UT)",24,31,0
+0,2019-11-23,"Liberty (VA)","Virginia",27,55,0
+1,2019-11-30,"Liberty (VA)","New Mexico St.",49,28,1
+1,2019-12-21,"Liberty (VA)","Georgia Southern",23,16,1
+1,2019-09-02,"Notre Dame (IN)","Louisville (KY)",35,17,0
+1,2019-09-14,"Notre Dame (IN)","New Mexico",66,14,1
+0,2019-09-21,"Notre Dame (IN)","Georgia",17,23,0
+1,2019-09-28,"Notre Dame (IN)","Virginia",35,20,1
+1,2019-10-05,"Notre Dame (IN)","Bowling Green (OH)",52,0,1
+1,2019-10-12,"Notre Dame (IN)","Southern California",30,27,1
+0,2019-10-26,"Notre Dame (IN)","Michigan",14,45,0
+1,2019-11-02,"Notre Dame (IN)","Virginia Tech",21,20,1
+1,2019-11-09,"Notre Dame (IN)","Duke (NC)",38,7,0
+1,2019-11-16,"Notre Dame (IN)","Navy (MD)",52,20,1
+1,2019-11-23,"Notre Dame (IN)","Boston College (MA)",40,7,1
+1,2019-11-30,"Notre Dame (IN)","Stanford (CA)",45,24,0
+1,2019-12-28,"Notre Dame (IN)","Iowa St.",33,9,1
+0,2019-08-29,"Brigham Young (UT)","Utah",12,30,1
+1,2019-09-07,"Brigham Young (UT)","Tennessee",29,26,0
+1,2019-09-14,"Brigham Young (UT)","Southern California",30,27,1
+0,2019-09-21,"Brigham Young (UT)","Washington",19,45,1
+0,2019-09-28,"Brigham Young (UT)","Toledo (OH)",21,28,0
+0,2019-10-12,"Brigham Young (UT)","South Florida",23,27,0
+1,2019-10-19,"Brigham Young (UT)","Boise St. (ID)",28,25,1
+1,2019-11-02,"Brigham Young (UT)","Utah St.",42,14,0
+1,2019-11-09,"Brigham Young (UT)","Liberty (VA)",31,24,1
+1,2019-11-16,"Brigham Young (UT)","Idaho St.",42,10,1
+1,2019-11-23,"Brigham Young (UT)","Massachusetts",56,24,0
+0,2019-11-30,"Brigham Young (UT)","San Diego St. (CA)",3,13,0
+0,2019-12-24,"Brigham Young (UT)","Hawaii",34,38,0
+0,2019-08-31,"Miami (OH)","Iowa",14,38,0
+1,2019-09-07,"Miami (OH)","Tennessee Tech",48,17,1
+0,2019-09-14,"Miami (OH)","Cincinnati (OH)",13,35,0
+0,2019-09-21,"Miami (OH)","Ohio St.",5,76,0
+1,2019-09-28,"Miami (OH)","Buffalo (NY)",34,20,1
+0,2019-10-12,"Miami (OH)","Western Michigan",16,38,0
+1,2019-10-19,"Miami (OH)","Northern Illinois",27,24,1
+1,2019-10-26,"Miami (OH)","Kent St. (OH)",23,16,0
+1,2019-11-06,"Miami (OH)","Ohio",24,21,0
+1,2019-11-13,"Miami (OH)","Bowling Green (OH)",44,3,1
+1,2019-11-20,"Miami (OH)","Akron (OH)",20,17,1
+0,2019-11-29,"Miami (OH)","Ball St. (IN)",27,41,0
+1,2019-12-07,"Miami (OH)","Central Michigan",26,21,1
+0,2020-01-06,"Miami (OH)","Louisiana-Lafayette",17,27,1
+1,2019-08-30,"Army (NY)","Rice (TX)",14,7,1
+0,2019-09-07,"Army (NY)","Michigan",21,24,0
+1,2019-09-14,"Army (NY)","Texas-San Antonio",31,13,0
+1,2019-09-21,"Army (NY)","Morgan St. (MD)",52,21,1
+0,2019-10-05,"Army (NY)","Tulane (LA)",33,42,1
+0,2019-10-12,"Army (NY)","Western Kentucky",8,17,0
+0,2019-10-19,"Army (NY)","Georgia St.",21,28,0
+0,2019-10-26,"Army (NY)","San Jose St. (CA)",29,34,1
+0,2019-11-02,"Army (NY)","Air Force (CO)",13,17,0
+1,2019-11-09,"Army (NY)","Massachusetts",63,7,1
+1,2019-11-16,"Army (NY)","Virginia Military Institute",47,6,1
+0,2019-11-30,"Army (NY)","Hawaii",31,52,0
+0,2019-12-14,"Army (NY)","Navy (MD)",7,31,1
+0,2019-08-31,"New Mexico St.","Washington St.",7,58,0
+0,2019-09-07,"New Mexico St.","Alabama",10,62,0
+0,2019-09-14,"New Mexico St.","San Diego St. (CA)",10,31,1
+0,2019-09-21,"New Mexico St.","New Mexico",52,55,0
+0,2019-09-28,"New Mexico St.","Fresno St. (CA)",17,30,1
+0,2019-10-05,"New Mexico St.","Liberty (VA)",13,20,1
+0,2019-10-12,"New Mexico St.","Central Michigan",28,42,0
+0,2019-10-26,"New Mexico St.","Georgia Southern",7,41,0
+0,2019-11-09,"New Mexico St.","Mississippi",3,41,0
+1,2019-11-16,"New Mexico St.","Incarnate Word (TX)",41,28,1
+1,2019-11-23,"New Mexico St.","Texas-El Paso",44,35,1
+0,2019-11-30,"New Mexico St.","Liberty (VA)",28,49,0
+0,2019-08-30,"Massachusetts","Rutgers (NJ)",21,48,0
+0,2019-09-07,"Massachusetts","Southern Illinois",20,45,1
+0,2019-09-14,"Massachusetts","North Carolina-Charlotte",17,52,0
+0,2019-09-21,"Massachusetts","Coastal Carolina (SC)",28,62,1
+1,2019-09-28,"Massachusetts","Akron (OH)",37,29,1
+0,2019-10-12,"Massachusetts","Louisiana Tech",21,69,0
+0,2019-10-26,"Massachusetts","Connecticut",35,56,1
+0,2019-11-02,"Massachusetts","Liberty (VA)",21,63,1
+0,2019-11-09,"Massachusetts","Army (NY)",7,63,0
+0,2019-11-16,"Massachusetts","Northwestern (IL)",6,45,0
+0,2019-11-23,"Massachusetts","Brigham Young (UT)",24,56,1
+0,2019-08-29,"Kent St. (OH)","Arizona St.",7,30,0
+1,2019-09-07,"Kent St. (OH)","Kennesaw St. (GA)",26,23,1
+0,2019-09-14,"Kent St. (OH)","Auburn (AL)",16,55,0
+1,2019-09-21,"Kent St. (OH)","Bowling Green (OH)",62,20,1
+0,2019-10-05,"Kent St. (OH)","Wisconsin",0,48,0
+1,2019-10-12,"Kent St. (OH)","Akron (OH)",26,3,0
+0,2019-10-19,"Kent St. (OH)","Ohio",38,45,0
+0,2019-10-26,"Kent St. (OH)","Miami (OH)",16,23,1
+0,2019-11-05,"Kent St. (OH)","Toledo (OH)",33,35,0
+1,2019-11-14,"Kent St. (OH)","Buffalo (NY)",30,27,1
+1,2019-11-23,"Kent St. (OH)","Ball St. (IN)",41,38,1
+1,2019-11-29,"Kent St. (OH)","Eastern Michigan",34,26,0
+1,2019-12-20,"Kent St. (OH)","Utah St.",51,41,1
+1,2019-08-31,"Ohio","Rhode Island",41,20,1
+0,2019-09-07,"Ohio","Pittsburgh (PA)",10,20,0
+0,2019-09-14,"Ohio","Marshall (WV)",31,33,0
+0,2019-09-21,"Ohio","Louisiana-Lafayette",25,45,1
+1,2019-10-05,"Ohio","Buffalo (NY)",21,20,0
+0,2019-10-12,"Ohio","Northern Illinois",36,39,1
+1,2019-10-19,"Ohio","Kent St. (OH)",45,38,1
+1,2019-10-26,"Ohio","Ball St. (IN)",34,21,0
+0,2019-11-06,"Ohio","Miami (OH)",21,24,1
+0,2019-11-12,"Ohio","Western Michigan",34,37,1
+1,2019-11-19,"Ohio","Bowling Green (OH)",66,24,0
+1,2019-11-26,"Ohio","Akron (OH)",52,3,0
+1,2020-01-03,"Ohio","Nevada",30,21,1
+0,2019-08-31,"Akron (OH)","Illinois",3,42,0
+0,2019-09-07,"Akron (OH)","Alabama-Birmingham",20,31,1
+0,2019-09-14,"Akron (OH)","Central Michigan",24,45,0
+0,2019-09-21,"Akron (OH)","Troy (AL)",7,35,1
+0,2019-09-28,"Akron (OH)","Massachusetts",29,37,0
+0,2019-10-12,"Akron (OH)","Kent St. (OH)",3,26,1
+0,2019-10-19,"Akron (OH)","Buffalo (NY)",0,21,1
+0,2019-10-26,"Akron (OH)","Northern Illinois",0,49,0
+0,2019-11-02,"Akron (OH)","Bowling Green (OH)",6,35,0
+0,2019-11-12,"Akron (OH)","Eastern Michigan",14,42,1
+0,2019-11-20,"Akron (OH)","Miami (OH)",17,20,0
+0,2019-11-26,"Akron (OH)","Ohio",3,52,1
+1,2019-08-29,"Buffalo (NY)","Robert Morris (PA)",38,10,1
+0,2019-09-07,"Buffalo (NY)","Penn St.",13,45,0
+0,2019-09-14,"Buffalo (NY)","Liberty (VA)",17,35,0
+1,2019-09-21,"Buffalo (NY)","Temple (PA)",38,22,1
+0,2019-09-28,"Buffalo (NY)","Miami (OH)",20,34,0
+0,2019-10-05,"Buffalo (NY)","Ohio",20,21,1
+1,2019-10-19,"Buffalo (NY)","Akron (OH)",21,0,0
+1,2019-10-26,"Buffalo (NY)","Central Michigan",43,20,1
+1,2019-11-02,"Buffalo (NY)","Eastern Michigan",43,14,0
+0,2019-11-14,"Buffalo (NY)","Kent St. (OH)",27,30,0
+1,2019-11-20,"Buffalo (NY)","Toledo (OH)",49,30,1
+1,2019-11-29,"Buffalo (NY)","Bowling Green (OH)",49,7,1
+1,2019-12-20,"Buffalo (NY)","North Carolina-Charlotte",31,9,1
+1,2019-08-29,"Bowling Green (OH)","Morgan St. (MD)",46,3,1
+0,2019-09-07,"Bowling Green (OH)","Kansas St.",0,52,0
+0,2019-09-14,"Bowling Green (OH)","Louisiana Tech",7,35,1
+0,2019-09-21,"Bowling Green (OH)","Kent St. (OH)",20,62,0
+0,2019-10-05,"Bowling Green (OH)","Notre Dame (IN)",0,52,0
+1,2019-10-12,"Bowling Green (OH)","Toledo (OH)",20,7,1
+0,2019-10-19,"Bowling Green (OH)","Central Michigan",20,38,1
+0,2019-10-26,"Bowling Green (OH)","Western Michigan",10,49,0
+1,2019-11-02,"Bowling Green (OH)","Akron (OH)",35,6,1
+0,2019-11-13,"Bowling Green (OH)","Miami (OH)",3,44,0
+0,2019-11-19,"Bowling Green (OH)","Ohio",24,66,1
+0,2019-11-29,"Bowling Green (OH)","Buffalo (NY)",7,49,0
+1,2019-08-31,"Western Michigan","Monmouth (NJ)",48,13,1
+0,2019-09-07,"Western Michigan","Michigan St.",17,51,0
+1,2019-09-14,"Western Michigan","Georgia St.",57,10,1
+0,2019-09-21,"Western Michigan","Syracuse (NY)",33,52,0
+1,2019-09-28,"Western Michigan","Central Michigan",31,15,1
+0,2019-10-05,"Western Michigan","Toledo (OH)",24,31,0
+1,2019-10-12,"Western Michigan","Miami (OH)",38,16,1
+0,2019-10-19,"Western Michigan","Eastern Michigan",27,34,0
+1,2019-10-26,"Western Michigan","Bowling Green (OH)",49,10,1
+1,2019-11-05,"Western Michigan","Ball St. (IN)",35,31,1
+1,2019-11-12,"Western Michigan","Ohio",37,34,0
+0,2019-11-26,"Western Michigan","Northern Illinois",14,17,0
+0,2019-12-30,"Western Michigan","Western Kentucky",20,23,1
+1,2019-08-29,"Central Michigan","SUNY-Albany (NY)",38,21,1
+0,2019-09-07,"Central Michigan","Wisconsin",0,61,0
+1,2019-09-14,"Central Michigan","Akron (OH)",45,24,1
+0,2019-09-21,"Central Michigan","Miami (FL)",12,17,0
+0,2019-09-28,"Central Michigan","Western Michigan",15,31,0
+1,2019-10-05,"Central Michigan","Eastern Michigan",42,16,1
+1,2019-10-12,"Central Michigan","New Mexico St.",42,28,1
+1,2019-10-19,"Central Michigan","Bowling Green (OH)",38,20,0
+0,2019-10-26,"Central Michigan","Buffalo (NY)",20,43,0
+1,2019-11-02,"Central Michigan","Northern Illinois",48,10,1
+1,2019-11-16,"Central Michigan","Ball St. (IN)",45,44,0
+1,2019-11-29,"Central Michigan","Toledo (OH)",49,7,1
+0,2019-12-07,"Central Michigan","Miami (OH)",21,26,1
+0,2019-12-21,"Central Michigan","San Diego St. (CA)",11,48,1
+0,2019-08-31,"Ball St. (IN)","Indiana",24,34,1
+1,2019-09-07,"Ball St. (IN)","Fordham (NY)",57,29,1
+0,2019-09-14,"Ball St. (IN)","Florida Atlantic",31,41,1
+0,2019-09-21,"Ball St. (IN)","North Carolina St.",23,34,0
+1,2019-10-05,"Ball St. (IN)","Northern Illinois",27,20,0
+1,2019-10-12,"Ball St. (IN)","Eastern Michigan",29,23,0
+1,2019-10-19,"Ball St. (IN)","Toledo (OH)",52,14,1
+0,2019-10-26,"Ball St. (IN)","Ohio",21,34,1
+0,2019-11-05,"Ball St. (IN)","Western Michigan",31,35,0
+0,2019-11-16,"Ball St. (IN)","Central Michigan",44,45,1
+0,2019-11-23,"Ball St. (IN)","Kent St. (OH)",38,41,0
+1,2019-11-29,"Ball St. (IN)","Miami (OH)",41,27,1
+1,2019-08-31,"Northern Illinois","Illinois St.",24,10,1
+0,2019-09-07,"Northern Illinois","Utah",17,35,0
+0,2019-09-14,"Northern Illinois","Nebraska",8,44,0
+0,2019-09-28,"Northern Illinois","Vanderbilt (TN)",18,24,0
+0,2019-10-05,"Northern Illinois","Ball St. (IN)",20,27,1
+1,2019-10-12,"Northern Illinois","Ohio",39,36,0
+0,2019-10-19,"Northern Illinois","Miami (OH)",24,27,0
+1,2019-10-26,"Northern Illinois","Akron (OH)",49,0,1
+0,2019-11-02,"Northern Illinois","Central Michigan",10,48,0
+1,2019-11-13,"Northern Illinois","Toledo (OH)",31,28,0
+0,2019-11-19,"Northern Illinois","Eastern Michigan",17,45,1
+1,2019-11-26,"Northern Illinois","Western Michigan",17,14,1
+1,2019-08-31,"Boise St. (ID)","Florida St.",36,31,0
+1,2019-09-06,"Boise St. (ID)","Marshall (WV)",14,7,1
+1,2019-09-14,"Boise St. (ID)","Portland St. (OR)",45,10,1
+1,2019-09-20,"Boise St. (ID)","Air Force (CO)",30,19,1
+1,2019-10-05,"Boise St. (ID)","Nevada-Las Vegas",38,13,0
+1,2019-10-12,"Boise St. (ID)","Hawaii",59,37,1
+0,2019-10-19,"Boise St. (ID)","Brigham Young (UT)",25,28,0
+1,2019-11-02,"Boise St. (ID)","San Jose St. (CA)",52,42,0
+1,2019-11-09,"Boise St. (ID)","Wyoming",20,17,1
+1,2019-11-16,"Boise St. (ID)","New Mexico",42,9,1
+1,2019-11-23,"Boise St. (ID)","Utah St.",56,21,0
+1,2019-11-29,"Boise St. (ID)","Colorado St.",31,24,0
+1,2019-12-07,"Boise St. (ID)","Hawaii",31,10,1
+0,2019-12-21,"Boise St. (ID)","Washington",7,38,1
+0,2019-08-30,"Utah St.","Wake Forest (NC)",35,38,0
+1,2019-09-07,"Utah St.","SUNY-Stony Brook (NY)",62,7,1
+1,2019-09-21,"Utah St.","San Diego St. (CA)",23,17,0
+1,2019-09-28,"Utah St.","Colorado St.",34,24,1
+0,2019-10-05,"Utah St.","Louisiana St.",6,42,0
+1,2019-10-19,"Utah St.","Nevada",36,10,1
+0,2019-10-26,"Utah St.","Air Force (CO)",7,31,0
+0,2019-11-02,"Utah St.","Brigham Young (UT)",14,42,1
+1,2019-11-09,"Utah St.","Fresno St. (CA)",37,35,0
+1,2019-11-16,"Utah St.","Wyoming",26,21,1
+0,2019-11-23,"Utah St.","Boise St. (ID)",21,56,1
+1,2019-11-30,"Utah St.","New Mexico",38,25,0
+0,2019-12-20,"Utah St.","Kent St. (OH)",41,51,1
+0,2019-08-31,"Toledo (OH)","Kentucky",24,38,0
+1,2019-09-14,"Toledo (OH)","Murray St. (KY)",45,0,1
+1,2019-09-21,"Toledo (OH)","Colorado St.",41,35,0
+1,2019-09-28,"Toledo (OH)","Brigham Young (UT)",28,21,1
+1,2019-10-05,"Toledo (OH)","Western Michigan",31,24,1
+0,2019-10-12,"Toledo (OH)","Bowling Green (OH)",7,20,0
+0,2019-10-19,"Toledo (OH)","Ball St. (IN)",14,52,0
+1,2019-10-26,"Toledo (OH)","Eastern Michigan",37,34,1
+1,2019-11-05,"Toledo (OH)","Kent St. (OH)",35,33,1
+0,2019-11-13,"Toledo (OH)","Northern Illinois",28,31,1
+0,2019-11-20,"Toledo (OH)","Buffalo (NY)",30,49,0
+0,2019-11-29,"Toledo (OH)","Central Michigan",7,49,0
+1,2019-08-31,"Eastern Michigan","Coastal Carolina (SC)",30,23,0
+0,2019-09-07,"Eastern Michigan","Kentucky",17,38,0
+1,2019-09-14,"Eastern Michigan","Illinois",34,31,0
+1,2019-09-21,"Eastern Michigan","Central Connecticut St.",34,29,1
+0,2019-10-05,"Eastern Michigan","Central Michigan",16,42,0
+0,2019-10-12,"Eastern Michigan","Ball St. (IN)",23,29,1
+1,2019-10-19,"Eastern Michigan","Western Michigan",34,27,1
+0,2019-10-26,"Eastern Michigan","Toledo (OH)",34,37,0
+0,2019-11-02,"Eastern Michigan","Buffalo (NY)",14,43,1
+1,2019-11-12,"Eastern Michigan","Akron (OH)",42,14,0
+1,2019-11-19,"Eastern Michigan","Northern Illinois",45,17,0
+0,2019-11-29,"Eastern Michigan","Kent St. (OH)",26,34,1
+0,2019-12-26,"Eastern Michigan","Pittsburgh (PA)",30,34,1
+1,2019-08-31,"Wyoming","Missouri",37,31,1
+1,2019-09-07,"Wyoming","Texas St.",23,14,0
+1,2019-09-14,"Wyoming","Idaho",21,16,1
+0,2019-09-21,"Wyoming","Tulsa (OK)",21,24,0
+1,2019-09-28,"Wyoming","Nevada-Las Vegas",53,17,1
+0,2019-10-12,"Wyoming","San Diego St. (CA)",22,26,0
+1,2019-10-19,"Wyoming","New Mexico",23,10,1
+1,2019-10-26,"Wyoming","Nevada",31,3,1
+0,2019-11-09,"Wyoming","Boise St. (ID)",17,20,0
+0,2019-11-16,"Wyoming","Utah St.",21,26,0
+1,2019-11-22,"Wyoming","Colorado St.",17,7,1
+0,2019-11-30,"Wyoming","Air Force (CO)",6,20,0
+1,2019-12-31,"Wyoming","Georgia St.",38,17,1
+1,2019-08-31,"Air Force (CO)","Colgate (NY)",48,7,1
+1,2019-09-14,"Air Force (CO)","Colorado",30,23,0
+0,2019-09-20,"Air Force (CO)","Boise St. (ID)",19,30,0
+1,2019-09-27,"Air Force (CO)","San Jose St. (CA)",41,24,1
+0,2019-10-05,"Air Force (CO)","Navy (MD)",25,34,0
+1,2019-10-12,"Air Force (CO)","Fresno St. (CA)",43,24,1
+1,2019-10-19,"Air Force (CO)","Hawaii",56,26,0
+1,2019-10-26,"Air Force (CO)","Utah St.",31,7,1
+1,2019-11-02,"Air Force (CO)","Army (NY)",17,13,1
+1,2019-11-16,"Air Force (CO)","Colorado St.",38,21,0
+1,2019-11-23,"Air Force (CO)","New Mexico",44,22,0
+1,2019-11-30,"Air Force (CO)","Wyoming",20,6,1
+1,2019-12-27,"Air Force (CO)","Washington St.",31,21,1
+0,2019-09-14,"New Mexico","Notre Dame (IN)",14,66,0
+1,2019-09-21,"New Mexico","New Mexico St.",55,52,1
+0,2019-09-28,"New Mexico","Liberty (VA)",10,17,0
+0,2019-10-04,"New Mexico","San Jose St. (CA)",21,32,0
+0,2019-10-11,"New Mexico","Colorado St.",21,35,1
+0,2019-10-19,"New Mexico","Wyoming",10,23,0
+0,2019-10-26,"New Mexico","Hawaii",31,45,1
+0,2019-11-02,"New Mexico","Nevada",10,21,0
+0,2019-11-16,"New Mexico","Boise St. (ID)",9,42,0
+0,2019-11-23,"New Mexico","Air Force (CO)",22,44,1
+0,2019-11-30,"New Mexico","Utah St.",25,38,1
+1,2019-08-24,"Hawaii","Arizona",45,38,1
+1,2019-09-07,"Hawaii","Oregon St.",31,28,1
+0,2019-09-14,"Hawaii","Washington",20,52,0
+1,2019-09-21,"Hawaii","Central Arkansas",35,16,1
+1,2019-09-28,"Hawaii","Nevada",54,3,0
+0,2019-10-12,"Hawaii","Boise St. (ID)",37,59,0
+0,2019-10-19,"Hawaii","Air Force (CO)",26,56,1
+1,2019-10-26,"Hawaii","New Mexico",45,31,0
+0,2019-11-02,"Hawaii","Fresno St. (CA)",38,41,1
+1,2019-11-09,"Hawaii","San Jose St. (CA)",42,40,1
+1,2019-11-16,"Hawaii","Nevada-Las Vegas",21,7,0
+1,2019-11-23,"Hawaii","San Diego St. (CA)",14,11,1
+1,2019-11-30,"Hawaii","Army (NY)",52,31,1
+0,2019-12-07,"Hawaii","Boise St. (ID)",10,31,0
+1,2019-12-24,"Hawaii","Brigham Young (UT)",38,34,1
+1,2019-08-30,"Nevada","Purdue (IN)",34,31,1
+0,2019-09-07,"Nevada","Oregon",6,77,0
+1,2019-09-14,"Nevada","Weber St. (UT)",19,13,1
+1,2019-09-21,"Nevada","Texas-El Paso",37,21,0
+0,2019-09-28,"Nevada","Hawaii",3,54,1
+1,2019-10-12,"Nevada","San Jose St. (CA)",41,38,1
+0,2019-10-19,"Nevada","Utah St.",10,36,0
+0,2019-10-26,"Nevada","Wyoming",3,31,0
+1,2019-11-02,"Nevada","New Mexico",21,10,1
+1,2019-11-09,"Nevada","San Diego St. (CA)",17,13,0
+1,2019-11-23,"Nevada","Fresno St. (CA)",35,28,0
+0,2019-11-30,"Nevada","Nevada-Las Vegas",30,33,1
+0,2020-01-03,"Nevada","Ohio",21,30,1
+0,2019-09-07,"San Jose St. (CA)","Tulsa (OK)",16,34,1
+1,2019-09-21,"San Jose St. (CA)","Arkansas",31,24,0
+0,2019-09-27,"San Jose St. (CA)","Air Force (CO)",24,41,0
+1,2019-10-04,"San Jose St. (CA)","New Mexico",32,21,1
+0,2019-10-12,"San Jose St. (CA)","Nevada",38,41,0
+0,2019-10-19,"San Jose St. (CA)","San Diego St. (CA)",17,27,1
+1,2019-10-26,"San Jose St. (CA)","Army (NY)",34,29,0
+0,2019-11-02,"San Jose St. (CA)","Boise St. (ID)",42,52,1
+0,2019-11-09,"San Jose St. (CA)","Hawaii",40,42,0
+0,2019-11-23,"San Jose St. (CA)","Nevada-Las Vegas",35,38,0
+1,2019-11-30,"San Jose St. (CA)","Fresno St. (CA)",17,16,1
+0,2019-08-30,"Colorado St.","Colorado",31,52,1
+1,2019-09-07,"Colorado St.","Western Illinois",38,13,1
+0,2019-09-14,"Colorado St.","Arkansas",34,55,0
+0,2019-09-21,"Colorado St.","Toledo (OH)",35,41,1
+0,2019-09-28,"Colorado St.","Utah St.",24,34,0
+0,2019-10-05,"Colorado St.","San Diego St. (CA)",10,24,1
+1,2019-10-11,"Colorado St.","New Mexico",35,21,0
+1,2019-10-26,"Colorado St.","Fresno St. (CA)",41,31,0
+1,2019-11-02,"Colorado St.","Nevada-Las Vegas",37,17,1
+0,2019-11-16,"Colorado St.","Air Force (CO)",21,38,1
+0,2019-11-22,"Colorado St.","Wyoming",7,17,0
+0,2019-11-29,"Colorado St.","Boise St. (ID)",24,31,1
+1,2019-08-31,"Nevada-Las Vegas","Southern Utah",56,23,1
+0,2019-09-07,"Nevada-Las Vegas","Arkansas St.",17,43,1
+0,2019-09-14,"Nevada-Las Vegas","Northwestern (IL)",14,30,0
+0,2019-09-28,"Nevada-Las Vegas","Wyoming",17,53,0
+0,2019-10-05,"Nevada-Las Vegas","Boise St. (ID)",13,38,1
+1,2019-10-12,"Nevada-Las Vegas","Vanderbilt (TN)",34,10,0
+0,2019-10-18,"Nevada-Las Vegas","Fresno St. (CA)",27,56,0
+0,2019-10-26,"Nevada-Las Vegas","San Diego St. (CA)",17,20,1
+0,2019-11-02,"Nevada-Las Vegas","Colorado St.",17,37,0
+0,2019-11-16,"Nevada-Las Vegas","Hawaii",7,21,1
+1,2019-11-23,"Nevada-Las Vegas","San Jose St. (CA)",38,35,1
+1,2019-11-30,"Nevada-Las Vegas","Nevada",33,30,0
+1,2019-08-31,"San Diego St. (CA)","Weber St. (UT)",6,0,1
+1,2019-09-07,"San Diego St. (CA)","UCLA",23,14,0
+1,2019-09-14,"San Diego St. (CA)","New Mexico St.",31,10,0
+0,2019-09-21,"San Diego St. (CA)","Utah St.",17,23,1
+1,2019-10-05,"San Diego St. (CA)","Colorado St.",24,10,0
+1,2019-10-12,"San Diego St. (CA)","Wyoming",26,22,1
+1,2019-10-19,"San Diego St. (CA)","San Jose St. (CA)",27,17,0
+1,2019-10-26,"San Diego St. (CA)","Nevada-Las Vegas",20,17,0
+0,2019-11-09,"San Diego St. (CA)","Nevada",13,17,1
+1,2019-11-15,"San Diego St. (CA)","Fresno St. (CA)",17,7,1
+0,2019-11-23,"San Diego St. (CA)","Hawaii",11,14,0
+1,2019-11-30,"San Diego St. (CA)","Brigham Young (UT)",13,3,1
+1,2019-12-21,"San Diego St. (CA)","Central Michigan",48,11,1
+0,2019-08-31,"Fresno St. (CA)","Southern California",23,31,0
+0,2019-09-07,"Fresno St. (CA)","Minnesota",35,38,1
+1,2019-09-21,"Fresno St. (CA)","Cal St.-Sacramento",34,20,1
+1,2019-09-28,"Fresno St. (CA)","New Mexico St.",30,17,0
+0,2019-10-12,"Fresno St. (CA)","Air Force (CO)",24,43,0
+1,2019-10-18,"Fresno St. (CA)","Nevada-Las Vegas",56,27,1
+0,2019-10-26,"Fresno St. (CA)","Colorado St.",31,41,1
+1,2019-11-02,"Fresno St. (CA)","Hawaii",41,38,0
+0,2019-11-09,"Fresno St. (CA)","Utah St.",35,37,1
+0,2019-11-15,"Fresno St. (CA)","San Diego St. (CA)",7,17,0
+0,2019-11-23,"Fresno St. (CA)","Nevada",28,35,1
+0,2019-11-30,"Fresno St. (CA)","San Jose St. (CA)",16,17,0
+0,2019-08-31,"Oregon","Auburn (AL)",21,27,1
+1,2019-09-07,"Oregon","Nevada",77,6,1
+1,2019-09-14,"Oregon","Montana",35,3,1
+1,2019-09-21,"Oregon","Stanford (CA)",21,6,0
+1,2019-10-05,"Oregon","California",17,7,1
+1,2019-10-11,"Oregon","Colorado",45,3,1
+1,2019-10-19,"Oregon","Washington",35,31,0
+1,2019-10-26,"Oregon","Washington St.",37,35,1
+1,2019-11-02,"Oregon","Southern California",56,24,0
+1,2019-11-16,"Oregon","Arizona",34,6,1
+0,2019-11-23,"Oregon","Arizona St.",28,31,0
+1,2019-11-30,"Oregon","Oregon St.",24,10,1
+1,2019-12-06,"Oregon","Utah",37,15,1
+1,2020-01-01,"Oregon","Wisconsin",28,27,1
+1,2019-08-31,"California","California-Davis",27,13,1
+1,2019-09-07,"California","Washington",20,19,0
+1,2019-09-14,"California","North Texas",23,17,1
+1,2019-09-21,"California","Mississippi",28,20,0
+0,2019-09-27,"California","Arizona St.",17,24,1
+0,2019-10-05,"California","Oregon",7,17,0
+0,2019-10-19,"California","Oregon St.",17,21,1
+0,2019-10-26,"California","Utah",0,35,0
+1,2019-11-09,"California","Washington St.",33,20,1
+0,2019-11-16,"California","Southern California",17,41,1
+1,2019-11-23,"California","Stanford (CA)",24,20,0
+1,2019-11-30,"California","UCLA",28,18,0
+1,2019-12-30,"California","Illinois",35,20,1
+1,2019-08-31,"Washington St.","New Mexico St.",58,7,1
+1,2019-09-13,"Washington St.","Houston (TX)",31,24,1
+0,2019-09-21,"Washington St.","UCLA",63,67,1
+0,2019-09-28,"Washington St.","Utah",13,38,0
+0,2019-10-12,"Washington St.","Arizona St.",34,38,0
+1,2019-10-19,"Washington St.","Colorado",41,10,1
+0,2019-10-26,"Washington St.","Oregon",35,37,0
+0,2019-11-09,"Washington St.","California",20,33,0
+1,2019-11-16,"Washington St.","Stanford (CA)",49,22,1
+1,2019-11-23,"Washington St.","Oregon St.",54,53,1
+0,2019-11-29,"Washington St.","Washington",13,31,0
+0,2019-12-27,"Washington St.","Air Force (CO)",21,31,1
+0,2019-08-30,"Oregon St.","Oklahoma St.",36,52,1
+0,2019-09-07,"Oregon St.","Hawaii",28,31,0
+1,2019-09-14,"Oregon St.","Cal Poly-San Luis Obispo",45,7,1
+0,2019-09-28,"Oregon St.","Stanford (CA)",28,31,1
+1,2019-10-05,"Oregon St.","UCLA",48,31,0
+0,2019-10-12,"Oregon St.","Utah",7,52,1
+1,2019-10-19,"Oregon St.","California",21,17,0
+1,2019-11-02,"Oregon St.","Arizona",56,38,0
+0,2019-11-08,"Oregon St.","Washington",7,19,1
+1,2019-11-16,"Oregon St.","Arizona St.",35,34,1
+0,2019-11-23,"Oregon St.","Washington St.",53,54,0
+0,2019-11-30,"Oregon St.","Oregon",10,24,0
+1,2019-08-31,"Southern California","Fresno St. (CA)",31,23,1
+1,2019-09-07,"Southern California","Stanford (CA)",45,20,1
+0,2019-09-14,"Southern California","Brigham Young (UT)",27,30,0
+1,2019-09-20,"Southern California","Utah",30,23,1
+0,2019-09-28,"Southern California","Washington",14,28,0
+0,2019-10-12,"Southern California","Notre Dame (IN)",27,30,0
+1,2019-10-19,"Southern California","Arizona",41,14,1
+1,2019-10-25,"Southern California","Colorado",35,31,0
+0,2019-11-02,"Southern California","Oregon",24,56,1
+1,2019-11-09,"Southern California","Arizona St.",31,26,0
+1,2019-11-16,"Southern California","California",41,17,0
+1,2019-11-23,"Southern California","UCLA",52,35,1
+0,2019-12-27,"Southern California","Iowa",24,49,1
+1,2019-08-29,"Utah","Brigham Young (UT)",30,12,0
+1,2019-09-07,"Utah","Northern Illinois",35,17,1
+1,2019-09-14,"Utah","Idaho St.",31,0,1
+0,2019-09-20,"Utah","Southern California",23,30,0
+1,2019-09-28,"Utah","Washington St.",38,13,1
+1,2019-10-12,"Utah","Oregon St.",52,7,0
+1,2019-10-19,"Utah","Arizona St.",21,3,1
+1,2019-10-26,"Utah","California",35,0,1
+1,2019-11-02,"Utah","Washington",33,28,0
+1,2019-11-16,"Utah","UCLA",49,3,1
+1,2019-11-23,"Utah","Arizona",35,7,0
+1,2019-11-30,"Utah","Colorado",45,15,1
+0,2019-12-06,"Utah","Oregon",15,37,1
+0,2019-12-31,"Utah","Texas",10,38,1
+1,2019-08-31,"Washington","Eastern Washington",47,14,1
+0,2019-09-07,"Washington","California",19,20,1
+1,2019-09-14,"Washington","Hawaii",52,20,1
+1,2019-09-21,"Washington","Brigham Young (UT)",45,19,0
+1,2019-09-28,"Washington","Southern California",28,14,1
+0,2019-10-05,"Washington","Stanford (CA)",13,23,0
+1,2019-10-12,"Washington","Arizona",51,27,0
+0,2019-10-19,"Washington","Oregon",31,35,1
+0,2019-11-02,"Washington","Utah",28,33,1
+1,2019-11-08,"Washington","Oregon St.",19,7,0
+0,2019-11-23,"Washington","Colorado",14,20,0
+1,2019-11-29,"Washington","Washington St.",31,13,1
+1,2019-12-21,"Washington","Boise St. (ID)",38,7,1
+1,2019-08-31,"Stanford (CA)","Northwestern (IL)",17,7,1
+0,2019-09-07,"Stanford (CA)","Southern California",20,45,0
+0,2019-09-14,"Stanford (CA)","Central Florida",27,45,0
+0,2019-09-21,"Stanford (CA)","Oregon",6,21,1
+1,2019-09-28,"Stanford (CA)","Oregon St.",31,28,0
+1,2019-10-05,"Stanford (CA)","Washington",23,13,1
+0,2019-10-17,"Stanford (CA)","UCLA",16,34,1
+1,2019-10-26,"Stanford (CA)","Arizona",41,31,1
+0,2019-11-09,"Stanford (CA)","Colorado",13,16,0
+0,2019-11-16,"Stanford (CA)","Washington St.",22,49,0
+0,2019-11-23,"Stanford (CA)","California",20,24,1
+0,2019-11-30,"Stanford (CA)","Notre Dame (IN)",24,45,1
+0,2019-08-29,"UCLA","Cincinnati (OH)",14,24,0
+0,2019-09-07,"UCLA","San Diego St. (CA)",14,23,1
+0,2019-09-14,"UCLA","Oklahoma",14,48,1
+1,2019-09-21,"UCLA","Washington St.",67,63,0
+0,2019-09-28,"UCLA","Arizona",17,20,0
+0,2019-10-05,"UCLA","Oregon St.",31,48,1
+1,2019-10-17,"UCLA","Stanford (CA)",34,16,0
+1,2019-10-26,"UCLA","Arizona St.",42,32,1
+1,2019-11-02,"UCLA","Colorado",31,14,1
+0,2019-11-16,"UCLA","Utah",3,49,0
+0,2019-11-23,"UCLA","Southern California",35,52,0
+0,2019-11-30,"UCLA","California",18,28,1
+1,2019-08-30,"Colorado","Colorado St.",52,31,1
+1,2019-09-07,"Colorado","Nebraska",34,31,1
+0,2019-09-14,"Colorado","Air Force (CO)",23,30,1
+1,2019-09-21,"Colorado","Arizona St.",34,31,0
+0,2019-10-05,"Colorado","Arizona",30,35,1
+0,2019-10-11,"Colorado","Oregon",3,45,0
+0,2019-10-19,"Colorado","Washington St.",10,41,0
+0,2019-10-25,"Colorado","Southern California",31,35,1
+0,2019-11-02,"Colorado","UCLA",14,31,0
+1,2019-11-09,"Colorado","Stanford (CA)",16,13,1
+1,2019-11-23,"Colorado","Washington",20,14,1
+0,2019-11-30,"Colorado","Utah",15,45,0
+1,2019-08-31,"Georgia","Vanderbilt (TN)",30,6,0
+1,2019-09-07,"Georgia","Murray St. (KY)",63,17,1
+1,2019-09-14,"Georgia","Arkansas St.",55,0,1
+1,2019-09-21,"Georgia","Notre Dame (IN)",23,17,1
+1,2019-10-05,"Georgia","Tennessee",43,14,0
+0,2019-10-12,"Georgia","South Carolina",17,20,1
+1,2019-10-19,"Georgia","Kentucky",21,0,1
+1,2019-11-02,"Georgia","Florida",24,17,1
+1,2019-11-09,"Georgia","Missouri",27,0,1
+1,2019-11-16,"Georgia","Auburn (AL)",21,14,0
+1,2019-11-23,"Georgia","Texas A&M",19,13,1
+1,2019-11-30,"Georgia","Georgia Tech",52,7,0
+0,2019-12-07,"Georgia","Louisiana St.",10,37,1
+1,2020-01-01,"Georgia","Baylor (TX)",26,14,1
+1,2019-08-29,"Arizona St.","Kent St. (OH)",30,7,1
+1,2019-09-06,"Arizona St.","Cal St.-Sacramento",19,7,1
+1,2019-09-14,"Arizona St.","Michigan St.",10,7,0
+0,2019-09-21,"Arizona St.","Colorado",31,34,1
+1,2019-09-27,"Arizona St.","California",24,17,0
+1,2019-10-12,"Arizona St.","Washington St.",38,34,1
+0,2019-10-19,"Arizona St.","Utah",3,21,0
+0,2019-10-26,"Arizona St.","UCLA",32,42,0
+0,2019-11-09,"Arizona St.","Southern California",26,31,1
+0,2019-11-16,"Arizona St.","Oregon St.",34,35,0
+1,2019-11-23,"Arizona St.","Oregon",31,28,1
+1,2019-11-30,"Arizona St.","Arizona",24,14,1
+1,2019-12-31,"Arizona St.","Florida St.",20,14,1
+0,2019-08-24,"Arizona","Hawaii",38,45,0
+1,2019-09-07,"Arizona","Northern Arizona",65,41,1
+1,2019-09-14,"Arizona","Texas Tech",28,14,1
+1,2019-09-28,"Arizona","UCLA",20,17,1
+1,2019-10-05,"Arizona","Colorado",35,30,0
+0,2019-10-12,"Arizona","Washington",27,51,1
+0,2019-10-19,"Arizona","Southern California",14,41,0
+0,2019-10-26,"Arizona","Stanford (CA)",31,41,0
+0,2019-11-02,"Arizona","Oregon St.",38,56,1
+0,2019-11-16,"Arizona","Oregon",6,34,0
+0,2019-11-23,"Arizona","Utah",7,35,1
+0,2019-11-30,"Arizona","Arizona St.",14,24,0
+1,2019-08-24,"Florida","Miami (FL)",24,20,1
+1,2019-09-07,"Florida","Tennessee-Martin",45,0,1
+1,2019-09-14,"Florida","Kentucky",29,21,0
+1,2019-09-21,"Florida","Tennessee",34,3,1
+1,2019-09-28,"Florida","Towson (MD)",38,0,1
+1,2019-10-05,"Florida","Auburn (AL)",24,13,1
+0,2019-10-12,"Florida","Louisiana St.",28,42,0
+1,2019-10-19,"Florida","South Carolina",38,27,0
+0,2019-11-02,"Florida","Georgia",17,24,1
+1,2019-11-09,"Florida","Vanderbilt (TN)",56,0,1
+1,2019-11-16,"Florida","Missouri",23,6,0
+1,2019-11-30,"Florida","Florida St.",40,17,1
+1,2019-12-30,"Florida","Virginia",36,28,1
+0,2019-08-31,"Tennessee","Georgia St.",30,38,1
+0,2019-09-07,"Tennessee","Brigham Young (UT)",26,29,1
+1,2019-09-14,"Tennessee","Tennessee-Chattanooga",45,0,1
+0,2019-09-21,"Tennessee","Florida",3,34,0
+0,2019-10-05,"Tennessee","Georgia",14,43,1
+1,2019-10-12,"Tennessee","Mississippi St.",20,10,1
+0,2019-10-19,"Tennessee","Alabama",13,35,0
+1,2019-10-26,"Tennessee","South Carolina",41,21,1
+1,2019-11-02,"Tennessee","Alabama-Birmingham",30,7,1
+1,2019-11-09,"Tennessee","Kentucky",17,13,0
+1,2019-11-23,"Tennessee","Missouri",24,20,0
+1,2019-11-30,"Tennessee","Vanderbilt (TN)",28,10,1
+1,2020-01-02,"Tennessee","Indiana",23,22,1
+0,2019-08-31,"Missouri","Wyoming",31,37,0
+1,2019-09-07,"Missouri","West Virginia",38,7,1
+1,2019-09-14,"Missouri","Southeast Missouri St.",50,0,1
+1,2019-09-21,"Missouri","South Carolina",34,14,1
+1,2019-10-05,"Missouri","Troy (AL)",42,10,1
+1,2019-10-12,"Missouri","Mississippi",38,27,1
+0,2019-10-19,"Missouri","Vanderbilt (TN)",14,21,0
+0,2019-10-26,"Missouri","Kentucky",7,29,0
+0,2019-11-09,"Missouri","Georgia",0,27,0
+0,2019-11-16,"Missouri","Florida",6,23,1
+0,2019-11-23,"Missouri","Tennessee",20,24,1
+1,2019-11-29,"Missouri","Arkansas",24,14,0
+0,2019-08-31,"Vanderbilt (TN)","Georgia",6,30,1
+0,2019-09-07,"Vanderbilt (TN)","Purdue (IN)",24,42,0
+0,2019-09-21,"Vanderbilt (TN)","Louisiana St.",38,66,1
+1,2019-09-28,"Vanderbilt (TN)","Northern Illinois",24,18,1
+0,2019-10-05,"Vanderbilt (TN)","Mississippi",6,31,0
+0,2019-10-12,"Vanderbilt (TN)","Nevada-Las Vegas",10,34,1
+1,2019-10-19,"Vanderbilt (TN)","Missouri",21,14,1
+0,2019-11-02,"Vanderbilt (TN)","South Carolina",7,24,0
+0,2019-11-09,"Vanderbilt (TN)","Florida",0,56,0
+0,2019-11-16,"Vanderbilt (TN)","Kentucky",14,38,1
+1,2019-11-23,"Vanderbilt (TN)","East Tennessee St.",38,0,1
+0,2019-11-30,"Vanderbilt (TN)","Tennessee",10,28,0
+1,2019-08-31,"Louisiana St.","Georgia Southern",55,3,1
+1,2019-09-07,"Louisiana St.","Texas",45,38,0
+1,2019-09-14,"Louisiana St.","Northwestern St. (LA)",65,14,1
+1,2019-09-21,"Louisiana St.","Vanderbilt (TN)",66,38,0
+1,2019-10-05,"Louisiana St.","Utah St.",42,6,1
+1,2019-10-12,"Louisiana St.","Florida",42,28,1
+1,2019-10-19,"Louisiana St.","Mississippi St.",36,13,0
+1,2019-10-26,"Louisiana St.","Auburn (AL)",23,20,1
+1,2019-11-09,"Louisiana St.","Alabama",46,41,0
+1,2019-11-16,"Louisiana St.","Mississippi",58,37,0
+1,2019-11-23,"Louisiana St.","Arkansas",56,20,1
+1,2019-11-30,"Louisiana St.","Texas A&M",50,7,1
+1,2019-12-07,"Louisiana St.","Georgia",37,10,1
+1,2019-12-28,"Louisiana St.","Oklahoma",63,28,1
+1,2020-01-13,"Louisiana St.","Clemson (SC)",42,25,1
+1,2019-08-31,"Kentucky","Toledo (OH)",38,24,1
+1,2019-09-07,"Kentucky","Eastern Michigan",38,17,1
+0,2019-09-14,"Kentucky","Florida",21,29,1
+0,2019-09-21,"Kentucky","Mississippi St.",13,28,0
+0,2019-09-28,"Kentucky","South Carolina",7,24,0
+1,2019-10-12,"Kentucky","Arkansas",24,20,1
+0,2019-10-19,"Kentucky","Georgia",0,21,0
+1,2019-10-26,"Kentucky","Missouri",29,7,1
+0,2019-11-09,"Kentucky","Tennessee",13,17,1
+1,2019-11-16,"Kentucky","Vanderbilt (TN)",38,14,0
+1,2019-11-23,"Kentucky","Tennessee-Martin",50,7,1
+1,2019-11-30,"Kentucky","Louisville (KY)",45,13,1
+1,2019-12-31,"Kentucky","Virginia Tech",37,30,1
+0,2019-08-31,"South Carolina","North Carolina",20,24,1
+1,2019-09-07,"South Carolina","Charleston Southern (SC)",72,10,1
+0,2019-09-14,"South Carolina","Alabama",23,47,1
+0,2019-09-21,"South Carolina","Missouri",14,34,0
+1,2019-09-28,"South Carolina","Kentucky",24,7,1
+1,2019-10-12,"South Carolina","Georgia",20,17,0
+0,2019-10-19,"South Carolina","Florida",27,38,1
+0,2019-10-26,"South Carolina","Tennessee",21,41,0
+1,2019-11-02,"South Carolina","Vanderbilt (TN)",24,7,1
+0,2019-11-09,"South Carolina","Appalachian State (NC)",15,20,1
+0,2019-11-16,"South Carolina","Texas A&M",6,30,0
+0,2019-11-30,"South Carolina","Clemson (SC)",3,38,1
+1,2019-08-31,"Alabama","Duke (NC)",42,3,1
+1,2019-09-07,"Alabama","New Mexico St.",62,10,1
+1,2019-09-14,"Alabama","South Carolina",47,23,0
+1,2019-09-21,"Alabama","Southern Mississippi",49,7,1
+1,2019-09-28,"Alabama","Mississippi",59,31,1
+1,2019-10-12,"Alabama","Texas A&M",47,28,0
+1,2019-10-19,"Alabama","Tennessee",35,13,1
+1,2019-10-26,"Alabama","Arkansas",48,7,1
+0,2019-11-09,"Alabama","Louisiana St.",41,46,1
+1,2019-11-16,"Alabama","Mississippi St.",38,7,0
+1,2019-11-23,"Alabama","Western Carolina (NC)",66,3,1
+0,2019-11-30,"Alabama","Auburn (AL)",45,48,0
+1,2020-01-01,"Alabama","Michigan",35,16,1
+1,2019-08-31,"Auburn (AL)","Oregon",27,21,1
+1,2019-09-07,"Auburn (AL)","Tulane (LA)",24,6,1
+1,2019-09-14,"Auburn (AL)","Kent St. (OH)",55,16,1
+1,2019-09-21,"Auburn (AL)","Texas A&M",28,20,0
+1,2019-09-28,"Auburn (AL)","Mississippi St.",56,23,1
+0,2019-10-05,"Auburn (AL)","Florida",13,24,0
+1,2019-10-19,"Auburn (AL)","Arkansas",51,10,0
+0,2019-10-26,"Auburn (AL)","Louisiana St.",20,23,0
+1,2019-11-02,"Auburn (AL)","Mississippi",20,14,1
+0,2019-11-16,"Auburn (AL)","Georgia",14,21,1
+1,2019-11-23,"Auburn (AL)","Samford (AL)",52,0,1
+1,2019-11-30,"Auburn (AL)","Alabama",48,45,1
+0,2020-01-01,"Auburn (AL)","Minnesota",24,31,1
+1,2019-08-29,"Texas A&M","Texas St.",41,7,1
+0,2019-09-07,"Texas A&M","Clemson (SC)",10,24,0
+1,2019-09-14,"Texas A&M","Lamar (TX)",62,3,1
+0,2019-09-21,"Texas A&M","Auburn (AL)",20,28,1
+1,2019-09-28,"Texas A&M","Arkansas",31,27,1
+0,2019-10-12,"Texas A&M","Alabama",28,47,1
+1,2019-10-19,"Texas A&M","Mississippi",24,17,0
+1,2019-10-26,"Texas A&M","Mississippi St.",49,30,1
+1,2019-11-02,"Texas A&M","Texas-San Antonio",45,14,1
+1,2019-11-16,"Texas A&M","South Carolina",30,6,1
+0,2019-11-23,"Texas A&M","Georgia",13,19,0
+0,2019-11-30,"Texas A&M","Louisiana St.",7,50,0
+1,2019-12-27,"Texas A&M","Oklahoma St.",24,21,1
+0,2019-08-31,"Mississippi","Memphis (TN)",10,15,0
+1,2019-09-07,"Mississippi","Arkansas",31,17,1
+0,2019-09-21,"Mississippi","California",20,28,1
+0,2019-09-28,"Mississippi","Alabama",31,59,0
+1,2019-10-05,"Mississippi","Vanderbilt (TN)",31,6,1
+0,2019-10-12,"Mississippi","Missouri",27,38,0
+0,2019-10-19,"Mississippi","Texas A&M",17,24,1
+0,2019-11-02,"Mississippi","Auburn (AL)",14,20,0
+1,2019-11-09,"Mississippi","New Mexico St.",41,3,1
+0,2019-11-16,"Mississippi","Louisiana St.",37,58,1
+0,2019-11-28,"Mississippi","Mississippi St.",20,21,0
+1,2019-08-31,"Arkansas","Portland St. (OR)",20,13,1
+0,2019-09-07,"Arkansas","Mississippi",17,31,0
+1,2019-09-14,"Arkansas","Colorado St.",55,34,1
+0,2019-09-21,"Arkansas","San Jose St. (CA)",24,31,1
+0,2019-09-28,"Arkansas","Texas A&M",27,31,1
+0,2019-10-12,"Arkansas","Kentucky",20,24,0
+0,2019-10-19,"Arkansas","Auburn (AL)",10,51,1
+0,2019-10-26,"Arkansas","Alabama",7,48,0
+0,2019-11-02,"Arkansas","Mississippi St.",24,54,1
+0,2019-11-09,"Arkansas","Western Kentucky",19,45,1
+0,2019-11-23,"Arkansas","Louisiana St.",20,56,0
+0,2019-11-29,"Arkansas","Missouri",14,24,1
+1,2019-08-31,"Mississippi St.","Louisiana-Lafayette",38,28,1
+1,2019-09-07,"Mississippi St.","Southern Mississippi",38,15,1
+0,2019-09-14,"Mississippi St.","Kansas St.",24,31,1
+1,2019-09-21,"Mississippi St.","Kentucky",28,13,1
+0,2019-09-28,"Mississippi St.","Auburn (AL)",23,56,0
+0,2019-10-12,"Mississippi St.","Tennessee",10,20,0
+0,2019-10-19,"Mississippi St.","Louisiana St.",13,36,1
+0,2019-10-26,"Mississippi St.","Texas A&M",30,49,0
+1,2019-11-02,"Mississippi St.","Arkansas",54,24,0
+0,2019-11-16,"Mississippi St.","Alabama",7,38,1
+1,2019-11-23,"Mississippi St.","Abilene Christian (TX)",45,7,1
+1,2019-11-28,"Mississippi St.","Mississippi",21,20,1
+0,2019-12-30,"Mississippi St.","Louisville (KY)",28,38,1
+1,2019-08-31,"Appalachian State (NC)","East Tennessee St.",42,7,1
+1,2019-09-07,"Appalachian State (NC)","North Carolina-Charlotte",56,41,1
+1,2019-09-21,"Appalachian State (NC)","North Carolina",34,31,0
+1,2019-09-28,"Appalachian State (NC)","Coastal Carolina (SC)",56,37,1
+1,2019-10-09,"Appalachian State (NC)","Louisiana-Lafayette",17,7,0
+1,2019-10-19,"Appalachian State (NC)","Louisiana-Monroe",52,7,1
+1,2019-10-26,"Appalachian State (NC)","South Alabama",30,3,0
+0,2019-10-31,"Appalachian State (NC)","Georgia Southern",21,24,1
+1,2019-11-09,"Appalachian State (NC)","South Carolina",20,15,0
+1,2019-11-16,"Appalachian State (NC)","Georgia St.",56,27,0
+1,2019-11-23,"Appalachian State (NC)","Texas St.",35,13,1
+1,2019-11-29,"Appalachian State (NC)","Troy (AL)",48,13,0
+1,2019-12-07,"Appalachian State (NC)","Louisiana-Lafayette",45,38,1
+1,2019-12-21,"Appalachian State (NC)","Alabama-Birmingham",31,17,1
+0,2019-08-31,"Georgia Southern","Louisiana St.",3,55,0
+1,2019-09-07,"Georgia Southern","Maine",26,18,1
+0,2019-09-14,"Georgia Southern","Minnesota",32,35,0
+0,2019-09-28,"Georgia Southern","Louisiana-Lafayette",24,37,1
+1,2019-10-03,"Georgia Southern","South Alabama",20,17,0
+1,2019-10-19,"Georgia Southern","Coastal Carolina (SC)",30,27,1
+1,2019-10-26,"Georgia Southern","New Mexico St.",41,7,1
+1,2019-10-31,"Georgia Southern","Appalachian State (NC)",24,21,0
+0,2019-11-09,"Georgia Southern","Troy (AL)",28,49,0
+1,2019-11-16,"Georgia Southern","Louisiana-Monroe",51,29,1
+0,2019-11-23,"Georgia Southern","Arkansas St.",33,38,0
+1,2019-11-30,"Georgia Southern","Georgia St.",38,10,1
+0,2019-12-21,"Georgia Southern","Liberty (VA)",16,23,1
+1,2019-08-31,"Troy (AL)","Campbell (NC)",43,14,1
+0,2019-09-14,"Troy (AL)","Southern Mississippi",42,47,1
+1,2019-09-21,"Troy (AL)","Akron (OH)",35,7,0
+0,2019-09-28,"Troy (AL)","Arkansas St.",43,50,1
+0,2019-10-05,"Troy (AL)","Missouri",10,42,0
+1,2019-10-16,"Troy (AL)","South Alabama",37,13,1
+0,2019-10-26,"Troy (AL)","Georgia St.",33,52,0
+0,2019-11-02,"Troy (AL)","Coastal Carolina (SC)",35,36,0
+1,2019-11-09,"Troy (AL)","Georgia Southern",49,28,1
+1,2019-11-16,"Troy (AL)","Texas St.",63,27,0
+0,2019-11-23,"Troy (AL)","Louisiana-Lafayette",3,53,0
+0,2019-11-29,"Troy (AL)","Appalachian State (NC)",13,48,1
+0,2019-08-31,"Coastal Carolina (SC)","Eastern Michigan",23,30,1
+1,2019-09-07,"Coastal Carolina (SC)","Kansas",12,7,0
+1,2019-09-14,"Coastal Carolina (SC)","Norfolk St. (VA)",46,7,1
+1,2019-09-21,"Coastal Carolina (SC)","Massachusetts",62,28,0
+0,2019-09-28,"Coastal Carolina (SC)","Appalachian State (NC)",37,56,0
+0,2019-10-12,"Coastal Carolina (SC)","Georgia St.",21,31,1
+0,2019-10-19,"Coastal Carolina (SC)","Georgia Southern",27,30,0
+1,2019-11-02,"Coastal Carolina (SC)","Troy (AL)",36,35,1
+0,2019-11-07,"Coastal Carolina (SC)","Louisiana-Lafayette",7,48,1
+0,2019-11-16,"Coastal Carolina (SC)","Arkansas St.",27,28,0
+0,2019-11-23,"Coastal Carolina (SC)","Louisiana-Monroe",42,45,0
+1,2019-11-30,"Coastal Carolina (SC)","Texas St.",24,21,1
+1,2019-08-31,"Georgia St.","Tennessee",38,30,0
+1,2019-09-07,"Georgia St.","Furman (SC)",48,42,1
+0,2019-09-14,"Georgia St.","Western Michigan",10,57,0
+0,2019-09-21,"Georgia St.","Texas St.",34,37,0
+1,2019-10-05,"Georgia St.","Arkansas St.",52,38,1
+1,2019-10-12,"Georgia St.","Coastal Carolina (SC)",31,21,0
+1,2019-10-19,"Georgia St.","Army (NY)",28,21,1
+1,2019-10-26,"Georgia St.","Troy (AL)",52,33,1
+0,2019-11-09,"Georgia St.","Louisiana-Monroe",31,45,0
+0,2019-11-16,"Georgia St.","Appalachian State (NC)",27,56,1
+1,2019-11-23,"Georgia St.","South Alabama",28,15,1
+0,2019-11-30,"Georgia St.","Georgia Southern",10,38,0
+0,2019-12-31,"Georgia St.","Wyoming",17,38,1
+0,2019-08-31,"Louisiana-Lafayette","Mississippi St.",28,38,1
+1,2019-09-07,"Louisiana-Lafayette","Liberty (VA)",35,14,1
+1,2019-09-14,"Louisiana-Lafayette","Texas Southern",77,6,1
+1,2019-09-21,"Louisiana-Lafayette","Ohio",45,25,0
+1,2019-09-28,"Louisiana-Lafayette","Georgia Southern",37,24,0
+0,2019-10-09,"Louisiana-Lafayette","Appalachian State (NC)",7,17,1
+1,2019-10-17,"Louisiana-Lafayette","Arkansas St.",37,20,0
+1,2019-11-02,"Louisiana-Lafayette","Texas St.",31,3,1
+1,2019-11-07,"Louisiana-Lafayette","Coastal Carolina (SC)",48,7,0
+1,2019-11-16,"Louisiana-Lafayette","South Alabama",37,27,0
+1,2019-11-23,"Louisiana-Lafayette","Troy (AL)",53,3,1
+1,2019-11-30,"Louisiana-Lafayette","Louisiana-Monroe",31,30,1
+0,2019-12-07,"Louisiana-Lafayette","Appalachian State (NC)",38,45,0
+1,2020-01-06,"Louisiana-Lafayette","Miami (OH)",27,17,1
+1,2019-08-31,"Louisiana-Monroe","Grambling St. (LA)",31,9,1
+0,2019-09-07,"Louisiana-Monroe","Florida St.",44,45,0
+0,2019-09-21,"Louisiana-Monroe","Iowa St.",20,72,0
+1,2019-09-28,"Louisiana-Monroe","South Alabama",30,17,1
+0,2019-10-05,"Louisiana-Monroe","Memphis (TN)",33,52,1
+1,2019-10-10,"Louisiana-Monroe","Texas St.",24,14,0
+0,2019-10-19,"Louisiana-Monroe","Appalachian State (NC)",7,52,0
+0,2019-11-02,"Louisiana-Monroe","Arkansas St.",41,48,1
+1,2019-11-09,"Louisiana-Monroe","Georgia St.",45,31,1
+0,2019-11-16,"Louisiana-Monroe","Georgia Southern",29,51,0
+1,2019-11-23,"Louisiana-Monroe","Coastal Carolina (SC)",45,42,1
+0,2019-11-30,"Louisiana-Monroe","Louisiana-Lafayette",30,31,0
+0,2019-08-31,"Arkansas St.","Southern Methodist (TX)",30,37,1
+1,2019-09-07,"Arkansas St.","Nevada-Las Vegas",43,17,0
+0,2019-09-14,"Arkansas St.","Georgia",0,55,0
+1,2019-09-21,"Arkansas St.","Southern Illinois",41,28,1
+1,2019-09-28,"Arkansas St.","Troy (AL)",50,43,0
+0,2019-10-05,"Arkansas St.","Georgia St.",38,52,0
+0,2019-10-17,"Arkansas St.","Louisiana-Lafayette",20,37,1
+1,2019-10-26,"Arkansas St.","Texas St.",38,14,1
+1,2019-11-02,"Arkansas St.","Louisiana-Monroe",48,41,0
+1,2019-11-16,"Arkansas St.","Coastal Carolina (SC)",28,27,1
+1,2019-11-23,"Arkansas St.","Georgia Southern",38,33,1
+0,2019-11-29,"Arkansas St.","South Alabama",30,34,0
+0,2019-08-31,"South Alabama","Nebraska",21,35,0
+1,2019-09-07,"South Alabama","Jackson St. (MS)",37,14,1
+0,2019-09-14,"South Alabama","Memphis (TN)",6,42,1
+0,2019-09-21,"South Alabama","Alabama-Birmingham",3,35,0
+0,2019-09-28,"South Alabama","Louisiana-Monroe",17,30,0
+0,2019-10-03,"South Alabama","Georgia Southern",17,20,1
+0,2019-10-16,"South Alabama","Troy (AL)",13,37,0
+0,2019-10-26,"South Alabama","Appalachian State (NC)",3,30,1
+0,2019-11-09,"South Alabama","Texas St.",28,30,0
+0,2019-11-16,"South Alabama","Louisiana-Lafayette",27,37,1
+0,2019-11-23,"South Alabama","Georgia St.",15,28,0
+1,2019-11-29,"South Alabama","Arkansas St.",34,30,1
+0,2019-08-29,"Texas St.","Texas A&M",7,41,0
+0,2019-09-07,"Texas St.","Wyoming",14,23,1
+0,2019-09-14,"Texas St.","Southern Methodist (TX)",17,47,0
+1,2019-09-21,"Texas St.","Georgia St.",37,34,1
+1,2019-09-28,"Texas St.","Nicholls St. (LA)",24,3,1
+0,2019-10-10,"Texas St.","Louisiana-Monroe",14,24,1
+0,2019-10-26,"Texas St.","Arkansas St.",14,38,0
+0,2019-11-02,"Texas St.","Louisiana-Lafayette",3,31,0
+1,2019-11-09,"Texas St.","South Alabama",30,28,1
+0,2019-11-16,"Texas St.","Troy (AL)",27,63,1
+0,2019-11-23,"Texas St.","Appalachian State (NC)",13,35,0
+0,2019-11-30,"Texas St.","Coastal Carolina (SC)",21,24,0
